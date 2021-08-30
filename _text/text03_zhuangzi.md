@@ -4,11 +4,9 @@ layout: default
 description:  Text 1,2,3-gram analysis of chapter 1,2,4,17 of Zhuangzi (Translated by Burton Watson)
 shorttitle: "3 Zhuangzi"
 ---
-
-**莊子－逍遙遊、齊物論、人間世、秋水（英譯）**
-
 {% include menu.html %}
 
+**莊子－逍遙遊、齊物論、人間世、秋水（英譯）**
 
 Raw Text: <a href="../rawtext/text03_zhuangzi_1_2_4_17.txt"> {{ page.title }} </a>
 
@@ -69,4 +67,4 @@ Text acquired from: (<a href="https://terebess.hu/english/tao/Zhuangzi-Burton-Wa
 {% endfor %}
 </tbody>
 </table>
-<sup>1</sup> Number of the word / total number of word * 100%
+<sup>1</sup> Number of the word / total number of words * 100%

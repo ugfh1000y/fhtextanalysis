@@ -4,10 +4,9 @@ layout: default
 description: "Text 1,2,3-gram analysis of Quran Sura 2: The Heifer (ClearQuran, translated by TALAL ITANI)"
 shorttitle: "5 Quran"
 ---
+{% include menu.html %}
 
 **Quran Sura 2**
-
-{% include menu.html %}
 
 
 Raw Text: <a href="../rawtext/text05_quran_ch2.txt"> {{ page.title }} </a>
@@ -69,4 +68,4 @@ Text acquired from: ClearQuran (<a href="https://www.clearquran.com/002.html"> L
 {% endfor %}
 </tbody>
 </table>
-<sup>1</sup> Number of the word / total number of word * 100%
+<sup>1</sup> Number of the word / total number of words * 100%

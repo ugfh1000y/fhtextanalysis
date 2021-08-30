@@ -4,11 +4,9 @@ layout: default
 description: Text 1,2,3-gram analysis of chapter 1,12 of Analects
 shorttitle: "2 Analects"
 ---
-
-**論語－學而、顏淵（英譯）**
-
 {% include menu.html %}
 
+**論語－學而、顏淵（英譯）**
 
 Raw Text: <a href="../rawtext/text02_analects_ch1_12.txt"> {{ page.title }} </a>
 
@@ -69,4 +67,4 @@ Text acquired from: The Internet Classics Archive (<a href="http://classics.mit.
 {% endfor %}
 </tbody>
 </table>
-<sup>1</sup> Number of the word / total number of word * 100%
+<sup>1</sup> Number of the word / total number of words * 100%

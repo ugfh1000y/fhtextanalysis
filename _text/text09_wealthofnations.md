@@ -4,10 +4,9 @@ layout: default
 description: Text 1,2,3-gram analysis of Wealth of Nations Book 1 Ch 1-8
 shorttitle: "9 Wealth"
 ---
-**Wealth of Nations Bk1 Ch1-8**
-
 {% include menu.html %}
 
+**Wealth of Nations Bk1 Ch1-8**
 
 Raw Text: <a href="../rawtext/text09_wealth_of_nations_bk1_1to8.txt"> {{ page.title }} </a>
 
@@ -68,4 +67,4 @@ Text acquired from: Gutenberg (<a href="https://www.gutenberg.org/files/3300/330
 {% endfor %}
 </tbody>
 </table>
-<sup>1</sup> Number of the word / total number of word * 100%
+<sup>1</sup> Number of the word / total number of words * 100%

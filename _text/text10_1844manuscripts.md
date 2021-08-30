@@ -4,10 +4,9 @@ layout: default
 description: Text 1,2,3-gram analysis of 1844 manuscripts chapter on "Wages of Labour" and "Estranged Labour" (translated by Martin Milligan)
 shorttitle: "10 1844"
 ---
-
-**1844 Manuscripts - *Wages of Labour* & *Estranged Labour***
 {% include menu.html %}
 
+**1844 Manuscripts - *Wages of Labour* & *Estranged Labour***
 
 Raw Text: <a href="../rawtext/text10_1844_manuscript_wage_estranged.txt"> {{ page.title }} </a>
 
@@ -68,4 +67,4 @@ Text acquired from: marxists.org (<a href="https://www.marxists.org/archive/marx
 {% endfor %}
 </tbody>
 </table>
-<sup>1</sup> Number of the word / total number of word * 100%
+<sup>1</sup> Number of the word / total number of words * 100%

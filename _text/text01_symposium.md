@@ -4,12 +4,9 @@ layout: default
 description: Text 1,2,3-gram analysis of full text of Symposium (translated by Sir Walter Rangeley Maitland Lamb. (1882-1961))
 shorttitle: "1 Symposium"
 ---
-
-**Full text of Symposium**
-
 {% include menu.html %}
 
-
+**Full text of Symposium**
 
 Raw Text: <a href="../rawtext/text01_symposium.txt"> {{ page.title }} </a>
 
@@ -17,9 +14,6 @@ Text acquired from: Perseus Digital Library (<a href="http://www.perseus.tufts.e
 
 
 **N-gram analysis** Full Data (in TSV): <a href="../tsv/text01_symposium_result.tsv"> here </a>
-<details>
-  <summary style="display:list-item"> Click Here To Expand</summary>
-
 
 <table>
 <colgroup>
@@ -72,6 +66,4 @@ Text acquired from: Perseus Digital Library (<a href="http://www.perseus.tufts.e
 {% endfor %}
 </tbody>
 </table>
-<sup>1</sup> Number of the word / total number of word * 100%
-
-</details>
+<sup>1</sup> Number of the word / total number of words * 100%

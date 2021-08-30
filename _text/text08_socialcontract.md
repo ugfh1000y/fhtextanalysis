@@ -4,11 +4,9 @@ layout: default
 description: Text 1,2,3-gram analysis of Social Contract Book 1 & 2 (translated by G. D. H. COLE)
 shorttitle: "8 Social Contract"
 ---
-
-**Social Contract Book 1 & 2**
-
 {% include menu.html %}
 
+**Social Contract Book 1 & 2**
 
 Raw Text: <a href="../rawtext/text08_social_contract_bk1_2.txt"> {{ page.title }} </a>
 
@@ -69,4 +67,4 @@ Text acquired from: Online Library of Liberty (<a href="https://oll.libertyfund.
 {% endfor %}
 </tbody>
 </table>
-<sup>1</sup> Number of the word / total number of word * 100%
+<sup>1</sup> Number of the word / total number of words * 100%

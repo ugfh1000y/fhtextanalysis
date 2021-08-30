@@ -4,11 +4,9 @@ layout: default
 description: Text 1,2,3-gram analysis of ch 1-3 of Genesis and full book of Gospel of Mark (ESV translation)
 shorttitle: "4 Bible"
 ---
-
-**Bible Genesis and Mark**
-
 {% include menu.html %}
 
+**Bible Genesis and Mark**
 
 Raw Text: <a href="../rawtext/text04a_genesis_1to3.txt"> {{ page.title }} Gen 1-3 </a>
 Raw Text: <a href="../rawtext/text04b_mark_1to16.txt"> {{ page.title }} Mark </a>
@@ -127,4 +125,4 @@ Genesis
 </tbody>
 </table>
 
-<sup>1</sup> Number of the word / total number of word * 100%
+<sup>1</sup> Number of the word / total number of words * 100%

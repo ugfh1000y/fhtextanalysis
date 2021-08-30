@@ -4,11 +4,9 @@ layout: default
 description: Text 1,2,3-gram analysis of Heart Sutra (translated by Thich Nhat Hanh)
 shorttitle: "6 Heart Sutra"
 ---
-
-**Heart Sutra**
-
 {% include menu.html %}
 
+**Heart Sutra**
 
 Raw Text: <a href="../rawtext/text06_heartsutra.txt"> {{ page.title }} </a>
 
@@ -69,4 +67,4 @@ Text acquired from: Plum Village (<a href="https://plumvillage.org/about/thich-n
 {% endfor %}
 </tbody>
 </table>
-<sup>1</sup> Number of the word / total number of word * 100%
+<sup>1</sup> Number of the word / total number of words * 100%
