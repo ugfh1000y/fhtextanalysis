@@ -14,4 +14,4 @@ layout: default
 
 {% endfor %}
 
-Site made by Edwin.
+<sub>Site made by Edwin.</sub>
