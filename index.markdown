@@ -5,9 +5,13 @@
 layout: default
 
 ---
+我整緊嘅一個小Project，大家可以隨便用~ 
+
 
 {% for text in site.text %}
   <a href="{{ text.url | relative_url }}">
   {{ text.title }} </a><br>
 
 {% endfor %}
+
+Site made by Edwin.
