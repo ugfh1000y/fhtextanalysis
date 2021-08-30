@@ -1,0 +1,273 @@
+	1-gram	1-freq	1-freqratio (%)	2-gram	2-freq	2-freqratio (%)	3-gram	3-freq	3-freqratio (%)	4-gram	4-freq	4-freqratio (%)	5-gram	5-freq	5-freqratio (%)	6-gram	6-freq	6-freqratio (%)
+0	1	18.0	6.2718	from nltk	3.0	1.049	nltk freqdist gram	2.0	0.7018	for k v in	2.0	0.7042	for k v in fdistn	2.0	0.7067	key lambda x x 1 reverse	2	0.7092
+1	num	18.0	6.2718	fdist_for_sort 1	3.0	1.049	for k v	2.0	0.7018	k v in fdistn	2.0	0.7042	key lambda x x 1	2.0	0.7067	lambda x x 1 reverse true	2	0.7092
+2	df_n	9.0	3.1359	k v	3.0	1.049	k v in	2.0	0.7018	key lambda x x	2.0	0.7042	lambda x x 1 reverse	2.0	0.7067	x x 1 reverse true r1	2	0.7092
+3	x	8.0	2.7875	fdist_for_sort num	3.0	1.049	v in fdistn	2.0	0.7018	lambda x x 1	2.0	0.7042	x x 1 reverse true	2.0	0.7067	x 1 reverse true r1 r2	2	0.7092
+4	gram	7.0	2.439	str num	3.0	1.049	pass else fdist_result	2.0	0.7018	x x 1 reverse	2.0	0.7042	x 1 reverse true r1	2.0	0.7067	1 reverse true r1 r2 map	2	0.7092
+5	fdist_for_sort	7.0	2.439	df_n num	3.0	1.049	append fdist_result fdist_sorted	2.0	0.7018	x 1 reverse true	2.0	0.7042	1 reverse true r1 r2	2.0	0.7067	reverse true r1 r2 map list	2	0.7092
+6	nltk	6.0	2.0906	nltk import	2.0	0.6993	key lambda x	2.0	0.7018	1 reverse true r1	2.0	0.7042	reverse true r1 r2 map	2.0	0.7067	true r1 r2 map list zip	2	0.7092
+7	import	6.0	2.0906	gram 1	2.0	0.6993	lambda x x	2.0	0.7018	reverse true r1 r2	2.0	0.7042	true r1 r2 map list	2.0	0.7067	r1 r2 map list zip fdist_sorted	2	0.7092
+8	k	6.0	2.0906	ngrams tokens	2.0	0.6993	x x 1	2.0	0.7018	true r1 r2 map	2.0	0.7042	r1 r2 map list zip	2.0	0.7067	100 4 for x in r2	2	0.7092
+9	r2	6.0	2.0906	fdistn 1	2.0	0.6993	x 1 reverse	2.0	0.7018	r1 r2 map list	2.0	0.7042	r2 map list zip fdist_sorted	2.0	0.7067	from nltk import ngrams from nltk	1	0.3546
+10	fdistn	5.0	1.7422	nltk freqdist	2.0	0.6993	1 reverse true	2.0	0.7018	r2 map list zip	2.0	0.7042	100 4 for x in	2.0	0.7067	nltk import ngrams from nltk corpus	1	0.3546
+11	fdist_sorted	5.0	1.7422	freqdist gram	2.0	0.6993	reverse true r1	2.0	0.7018	map list zip fdist_sorted	2.0	0.7042	4 for x in r2	2.0	0.7067	import ngrams from nltk corpus import	1	0.3546
+12	pd	4.0	1.3937	for k	2.0	0.6993	true r1 r2	2.0	0.7018	r3 round x tokens_total	2.0	0.7042	from nltk import ngrams from	1.0	0.3534	ngrams from nltk corpus import stopwords	1	0.3546
+13	tokens	4.0	1.3937	v in	2.0	0.6993	r1 r2 map	2.0	0.7018	100 4 for x	2.0	0.7042	nltk import ngrams from nltk	1.0	0.3534	from nltk corpus import stopwords from	1	0.3546
+14	tokens_total	4.0	1.3937	in fdistn	2.0	0.6993	r2 map list	2.0	0.7018	4 for x in	2.0	0.7042	import ngrams from nltk corpus	1.0	0.3534	nltk corpus import stopwords from nltk	1	0.3546
+15	v	4.0	1.3937	items if	2.0	0.6993	map list zip	2.0	0.7018	for x in r2	2.0	0.7042	ngrams from nltk corpus import	1.0	0.3534	corpus import stopwords from nltk tokenize	1	0.3546
+16	fdist_result	4.0	1.3937	k 0	2.0	0.6993	list zip fdist_sorted	2.0	0.7018	pd dataframe r1 columns	2.0	0.7042	from nltk corpus import stopwords	1.0	0.3534	import stopwords from nltk tokenize import	1	0.3546
+17	r1	4.0	1.3937	in stop_words	2.0	0.6993	r3 round x	2.0	0.7018	from nltk import ngrams	1.0	0.3521	nltk corpus import stopwords from	1.0	0.3534	stopwords from nltk tokenize import regexptokenizer	1	0.3546
+18	r3	4.0	1.3937	pass else	2.0	0.6993	round x tokens_total	2.0	0.7018	nltk import ngrams from	1.0	0.3521	corpus import stopwords from nltk	1.0	0.3534	from nltk tokenize import regexptokenizer import	1	0.3546
+19	df	4.0	1.3937	else fdist_result	2.0	0.6993	100 4 for	2.0	0.7018	import ngrams from nltk	1.0	0.3521	import stopwords from nltk tokenize	1.0	0.3534	nltk tokenize import regexptokenizer import nltk	1	0.3546
+20	ngrams	3.0	1.0453	v fdist_for_sort	2.0	0.6993	4 for x	2.0	0.7018	ngrams from nltk corpus	1.0	0.3521	stopwords from nltk tokenize import	1.0	0.3534	tokenize import regexptokenizer import nltk import	1	0.3546
+21	inputfile	3.0	1.0453	append fdist_result	2.0	0.6993	for x in	2.0	0.7018	from nltk corpus import	1.0	0.3521	from nltk tokenize import regexptokenizer	1.0	0.3534	import regexptokenizer import nltk import pandas	1	0.3546
+22	stop_words_original	3.0	1.0453	fdist_result fdist_sorted	2.0	0.6993	x in r2	2.0	0.7018	nltk corpus import stopwords	1.0	0.3521	nltk tokenize import regexptokenizer import	1.0	0.3534	regexptokenizer import nltk import pandas as	1	0.3546
+23	stop_words	3.0	1.0453	fdist_sorted 1	2.0	0.6993	pd dataframe r1	2.0	0.7018	corpus import stopwords from	1.0	0.3521	tokenize import regexptokenizer import nltk	1.0	0.3534	import nltk import pandas as pd	1	0.3546
+24	zip	3.0	1.0453	sorted fdist_for_sort	2.0	0.6993	dataframe r1 columns	2.0	0.7018	import stopwords from nltk	1.0	0.3521	import regexptokenizer import nltk import	1.0	0.3534	nltk import pandas as pd import	1	0.3546
+25	4	3.0	1.0453	key lambda	2.0	0.6993	from nltk import	1.0	0.3509	stopwords from nltk tokenize	1.0	0.3521	regexptokenizer import nltk import pandas	1.0	0.3534	import pandas as pd import sys	1	0.3546
+26	str	3.0	1.0453	lambda x	2.0	0.6993	nltk import ngrams	1.0	0.3509	from nltk tokenize import	1.0	0.3521	import nltk import pandas as	1.0	0.3534	pandas as pd import sys def	1	0.3546
+27	stopwords	2.0	0.6969	x x	2.0	0.6993	import ngrams from	1.0	0.3509	nltk tokenize import regexptokenizer	1.0	0.3521	nltk import pandas as pd	1.0	0.3534	as pd import sys def main	1	0.3546
+28	tokenize	2.0	0.6969	x 1	2.0	0.6993	ngrams from nltk	1.0	0.3509	tokenize import regexptokenizer import	1.0	0.3521	import pandas as pd import	1.0	0.3534	pd import sys def main inputfile	1	0.3546
+29	regexptokenizer	2.0	0.6969	1 reverse	2.0	0.6993	from nltk corpus	1.0	0.3509	import regexptokenizer import nltk	1.0	0.3521	pandas as pd import sys	1.0	0.3534	import sys def main inputfile sys	1	0.3546
+30	sys	2.0	0.6969	reverse true	2.0	0.6993	nltk corpus import	1.0	0.3509	regexptokenizer import nltk import	1.0	0.3521	as pd import sys def	1.0	0.3534	sys def main inputfile sys argv	1	0.3546
+31	main	2.0	0.6969	true r1	2.0	0.6993	corpus import stopwords	1.0	0.3509	import nltk import pandas	1.0	0.3521	pd import sys def main	1.0	0.3534	def main inputfile sys argv 1	1	0.3546
+32	tokenizer	2.0	0.6969	r1 r2	2.0	0.6993	import stopwords from	1.0	0.3509	nltk import pandas as	1.0	0.3521	import sys def main inputfile	1.0	0.3534	main inputfile sys argv 1 stop_words_original	1	0.3546
+33	r	2.0	0.6969	r2 map	2.0	0.6993	stopwords from nltk	1.0	0.3509	import pandas as pd	1.0	0.3521	sys def main inputfile sys	1.0	0.3534	inputfile sys argv 1 stop_words_original stopwords	1	0.3546
+34	text	2.0	0.6969	map list	2.0	0.6993	from nltk tokenize	1.0	0.3509	pandas as pd import	1.0	0.3521	def main inputfile sys argv	1.0	0.3534	sys argv 1 stop_words_original stopwords words	1	0.3546
+35	text1	2.0	0.6969	list zip	2.0	0.6993	nltk tokenize import	1.0	0.3509	as pd import sys	1.0	0.3521	main inputfile sys argv 1	1.0	0.3534	argv 1 stop_words_original stopwords words english	1	0.3546
+36	text2	2.0	0.6969	zip fdist_sorted	2.0	0.6993	tokenize import regexptokenizer	1.0	0.3509	pd import sys def	1.0	0.3521	inputfile sys argv 1 stop_words_original	1.0	0.3534	1 stop_words_original stopwords words english stop_words_original	1	0.3546
+37	freqdist	2.0	0.6969	r3 round	2.0	0.6993	import regexptokenizer import	1.0	0.3509	import sys def main	1.0	0.3521	sys argv 1 stop_words_original stopwords	1.0	0.3534	stop_words_original stopwords words english stop_words_original extend	1	0.3546
+38	items	2.0	0.6969	round x	2.0	0.6993	regexptokenizer import nltk	1.0	0.3509	sys def main inputfile	1.0	0.3521	argv 1 stop_words_original stopwords words	1.0	0.3534	stopwords words english stop_words_original extend would	1	0.3546
+39	0	2.0	0.6969	x tokens_total	2.0	0.6993	import nltk import	1.0	0.3509	def main inputfile sys	1.0	0.3521	1 stop_words_original stopwords words english	1.0	0.3534	words english stop_words_original extend would must	1	0.3546
+40	pass	2.0	0.6969	100 4	2.0	0.6993	nltk import pandas	1.0	0.3509	main inputfile sys argv	1.0	0.3521	stop_words_original stopwords words english stop_words_original	1.0	0.3534	english stop_words_original extend would must i	1	0.3546
+41	else	2.0	0.6969	4 for	2.0	0.6993	import pandas as	1.0	0.3509	inputfile sys argv 1	1.0	0.3521	stopwords words english stop_words_original extend	1.0	0.3534	stop_words_original extend would must i it	1	0.3546
+42	append	2.0	0.6969	for x	2.0	0.6993	pandas as pd	1.0	0.3509	sys argv 1 stop_words_original	1.0	0.3521	words english stop_words_original extend would	1.0	0.3534	extend would must i it the	1	0.3546
+43	sorted	2.0	0.6969	x in	2.0	0.6993	as pd import	1.0	0.3509	argv 1 stop_words_original stopwords	1.0	0.3521	english stop_words_original extend would must	1.0	0.3534	must i it the but stop_words	1	0.3546
+44	key	2.0	0.6969	in r2	2.0	0.6993	pd import sys	1.0	0.3509	1 stop_words_original stopwords words	1.0	0.3521	stop_words_original extend would must i	1.0	0.3534	i it the but stop_words set	1	0.3546
+45	lambda	2.0	0.6969	r2 df	2.0	0.6993	import sys def	1.0	0.3509	stop_words_original stopwords words english	1.0	0.3521	extend would must i it	1.0	0.3534	it the but stop_words set stop_words_original	1	0.3546
+46	reverse	2.0	0.6969	pd dataframe	2.0	0.6993	sys def main	1.0	0.3509	stopwords words english stop_words_original	1.0	0.3521	i it the but stop_words	1.0	0.3534	the but stop_words set stop_words_original tokenizer	1	0.3546
+47	true	2.0	0.6969	dataframe r1	2.0	0.6993	def main inputfile	1.0	0.3509	words english stop_words_original extend	1.0	0.3521	it the but stop_words set	1.0	0.3534	but stop_words set stop_words_original tokenizer regexptokenizer	1	0.3546
+48	map	2.0	0.6969	r1 columns	2.0	0.6993	main inputfile sys	1.0	0.3509	english stop_words_original extend would	1.0	0.3521	the but stop_words set stop_words_original	1.0	0.3534	stop_words set stop_words_original tokenizer regexptokenizer r	1	0.3546
+49	list	2.0	0.6969	df 1	2.0	0.6993	inputfile sys argv	1.0	0.3509	stop_words_original extend would must	1.0	0.3521	but stop_words set stop_words_original tokenizer	1.0	0.3534	set stop_words_original tokenizer regexptokenizer r w	1	0.3546
+50	round	2.0	0.6969	gram num	2.0	0.6993	sys argv 1	1.0	0.3509	extend would must i	1.0	0.3521	stop_words set stop_words_original tokenizer regexptokenizer	1.0	0.3534	stop_words_original tokenizer regexptokenizer r w text	1	0.3546
+51	100	2.0	0.6969	fdistn num	2.0	0.6993	argv 1 stop_words_original	1.0	0.3509	it the but stop_words	1.0	0.3521	set stop_words_original tokenizer regexptokenizer r	1.0	0.3534	tokenizer regexptokenizer r w text open	1	0.3546
+52	dataframe	2.0	0.6969	fdist_sorted num	2.0	0.6993	1 stop_words_original stopwords	1.0	0.3509	the but stop_words set	1.0	0.3521	stop_words_original tokenizer regexptokenizer r w	1.0	0.3534	regexptokenizer r w text open inputfile	1	0.3546
+53	columns	2.0	0.6969	import ngrams	1.0	0.3497	stop_words_original stopwords words	1.0	0.3509	but stop_words set stop_words_original	1.0	0.3521	tokenizer regexptokenizer r w text	1.0	0.3534	r w text open inputfile r	1	0.3546
+54	freq	2.0	0.6969	ngrams from	1.0	0.3497	stopwords words english	1.0	0.3509	stop_words set stop_words_original tokenizer	1.0	0.3521	regexptokenizer r w text open	1.0	0.3534	w text open inputfile r text1	1	0.3546
+55	freqratio	2.0	0.6969	nltk corpus	1.0	0.3497	words english stop_words_original	1.0	0.3509	set stop_words_original tokenizer regexptokenizer	1.0	0.3521	r w text open inputfile	1.0	0.3534	text open inputfile r text1 text	1	0.3546
+56	6	2.0	0.6969	corpus import	1.0	0.3497	english stop_words_original extend	1.0	0.3509	stop_words_original tokenizer regexptokenizer r	1.0	0.3521	w text open inputfile r	1.0	0.3534	open inputfile r text1 text read	1	0.3546
+57	2	2.0	0.6969	import stopwords	1.0	0.3497	stop_words_original extend would	1.0	0.3509	tokenizer regexptokenizer r w	1.0	0.3521	text open inputfile r text1	1.0	0.3534	inputfile r text1 text read text2	1	0.3546
+58	col1	2.0	0.6969	stopwords from	1.0	0.3497	extend would must	1.0	0.3509	regexptokenizer r w text	1.0	0.3521	open inputfile r text1 text	1.0	0.3534	r text1 text read text2 text1	1	0.3546
+59	col2	2.0	0.6969	nltk tokenize	1.0	0.3497	the but stop_words	1.0	0.3509	r w text open	1.0	0.3521	inputfile r text1 text read	1.0	0.3534	text1 text read text2 text1 lower	1	0.3546
+60	col3	2.0	0.6969	tokenize import	1.0	0.3497	but stop_words set	1.0	0.3509	w text open inputfile	1.0	0.3521	r text1 text read text2	1.0	0.3534	text read text2 text1 lower tokens	1	0.3546
+61	df_final	2.0	0.6969	import regexptokenizer	1.0	0.3497	stop_words set stop_words_original	1.0	0.3509	text open inputfile r	1.0	0.3521	text1 text read text2 text1	1.0	0.3534	read text2 text1 lower tokens tokenizer	1	0.3546
+62	output_file	2.0	0.6969	regexptokenizer import	1.0	0.3497	set stop_words_original tokenizer	1.0	0.3509	open inputfile r text1	1.0	0.3521	text read text2 text1 lower	1.0	0.3534	text2 text1 lower tokens tokenizer tokenize	1	0.3546
+63	corpus	1.0	0.3484	import nltk	1.0	0.3497	stop_words_original tokenizer regexptokenizer	1.0	0.3509	inputfile r text1 text	1.0	0.3521	read text2 text1 lower tokens	1.0	0.3534	text1 lower tokens tokenizer tokenize text2	1	0.3546
+64	pandas	1.0	0.3484	import pandas	1.0	0.3497	tokenizer regexptokenizer r	1.0	0.3509	r text1 text read	1.0	0.3521	text2 text1 lower tokens tokenizer	1.0	0.3534	lower tokens tokenizer tokenize text2 tokens_total	1	0.3546
+65	def	1.0	0.3484	pandas as	1.0	0.3497	regexptokenizer r w	1.0	0.3509	text1 text read text2	1.0	0.3521	text1 lower tokens tokenizer tokenize	1.0	0.3534	tokens tokenizer tokenize text2 tokens_total len	1	0.3546
+66	argv	1.0	0.3484	as pd	1.0	0.3497	r w text	1.0	0.3509	text read text2 text1	1.0	0.3521	lower tokens tokenizer tokenize text2	1.0	0.3534	tokenizer tokenize text2 tokens_total len tokens	1	0.3546
+67	words	1.0	0.3484	pd import	1.0	0.3497	w text open	1.0	0.3509	read text2 text1 lower	1.0	0.3521	tokens tokenizer tokenize text2 tokens_total	1.0	0.3534	tokenize text2 tokens_total len tokens print	1	0.3546
+68	english	1.0	0.3484	import sys	1.0	0.3497	text open inputfile	1.0	0.3509	text2 text1 lower tokens	1.0	0.3521	tokenizer tokenize text2 tokens_total len	1.0	0.3534	text2 tokens_total len tokens print tokens_total	1	0.3546
+69	extend	1.0	0.3484	sys def	1.0	0.3497	open inputfile r	1.0	0.3509	text1 lower tokens tokenizer	1.0	0.3521	tokenize text2 tokens_total len tokens	1.0	0.3534	tokens_total len tokens print tokens_total gram	1	0.3546
+70	set	1.0	0.3484	def main	1.0	0.3497	inputfile r text1	1.0	0.3509	lower tokens tokenizer tokenize	1.0	0.3521	text2 tokens_total len tokens print	1.0	0.3534	len tokens print tokens_total gram fdistn	1	0.3546
+71	w	1.0	0.3484	main inputfile	1.0	0.3497	r text1 text	1.0	0.3509	tokens tokenizer tokenize text2	1.0	0.3521	tokens_total len tokens print tokens_total	1.0	0.3534	tokens print tokens_total gram fdistn fdist_for_sort	1	0.3546
+72	open	1.0	0.3484	inputfile sys	1.0	0.3497	text1 text read	1.0	0.3509	tokenizer tokenize text2 tokens_total	1.0	0.3521	len tokens print tokens_total gram	1.0	0.3534	print tokens_total gram fdistn fdist_for_sort n1	1	0.3546
+73	read	1.0	0.3484	sys argv	1.0	0.3497	text read text2	1.0	0.3509	tokenize text2 tokens_total len	1.0	0.3521	tokens print tokens_total gram fdistn	1.0	0.3534	tokens_total gram fdistn fdist_for_sort n1 gram	1	0.3546
+74	lower	1.0	0.3484	argv 1	1.0	0.3497	read text2 text1	1.0	0.3509	text2 tokens_total len tokens	1.0	0.3521	print tokens_total gram fdistn fdist_for_sort	1.0	0.3534	gram fdistn fdist_for_sort n1 gram 1	1	0.3546
+75	len	1.0	0.3484	1 stop_words_original	1.0	0.3497	text2 text1 lower	1.0	0.3509	tokens_total len tokens print	1.0	0.3521	tokens_total gram fdistn fdist_for_sort n1	1.0	0.3534	fdistn fdist_for_sort n1 gram 1 ngrams	1	0.3546
+76	print	1.0	0.3484	stop_words_original stopwords	1.0	0.3497	text1 lower tokens	1.0	0.3509	len tokens print tokens_total	1.0	0.3521	gram fdistn fdist_for_sort n1 gram	1.0	0.3534	fdist_for_sort n1 gram 1 ngrams tokens	1	0.3546
+77	n1	1.0	0.3484	stopwords words	1.0	0.3497	lower tokens tokenizer	1.0	0.3509	tokens print tokens_total gram	1.0	0.3521	fdistn fdist_for_sort n1 gram 1	1.0	0.3534	n1 gram 1 ngrams tokens 1	1	0.3546
+78	need	1.0	0.3484	words english	1.0	0.3497	tokens tokenizer tokenize	1.0	0.3509	print tokens_total gram fdistn	1.0	0.3521	fdist_for_sort n1 gram 1 ngrams	1.0	0.3534	gram 1 ngrams tokens 1 fdistn	1	0.3546
+79	understand	1.0	0.3484	english stop_words_original	1.0	0.3497	tokenizer tokenize text2	1.0	0.3509	tokens_total gram fdistn fdist_for_sort	1.0	0.3521	n1 gram 1 ngrams tokens	1.0	0.3534	1 ngrams tokens 1 fdistn 1	1	0.3546
+80	n2	1.0	0.3484	stop_words_original extend	1.0	0.3497	tokenize text2 tokens_total	1.0	0.3509	gram fdistn fdist_for_sort n1	1.0	0.3521	gram 1 ngrams tokens 1	1.0	0.3534	ngrams tokens 1 fdistn 1 nltk	1	0.3546
+81	range	1.0	0.3484	extend would	1.0	0.3497	text2 tokens_total len	1.0	0.3509	fdistn fdist_for_sort n1 gram	1.0	0.3521	1 ngrams tokens 1 fdistn	1.0	0.3534	tokens 1 fdistn 1 nltk freqdist	1	0.3546
+82	7	1.0	0.3484	but stop_words	1.0	0.3497	tokens_total len tokens	1.0	0.3509	fdist_for_sort n1 gram 1	1.0	0.3521	ngrams tokens 1 fdistn 1	1.0	0.3534	1 fdistn 1 nltk freqdist gram	1	0.3546
+83	join	1.0	0.3484	stop_words set	1.0	0.3497	len tokens print	1.0	0.3509	n1 gram 1 ngrams	1.0	0.3521	tokens 1 fdistn 1 nltk	1.0	0.3534	fdistn 1 nltk freqdist gram 1	1	0.3546
+84	concat	1.0	0.3484	set stop_words_original	1.0	0.3497	tokens print tokens_total	1.0	0.3509	gram 1 ngrams tokens	1.0	0.3521	1 fdistn 1 nltk freqdist	1.0	0.3534	1 nltk freqdist gram 1 fdist_for_sort	1	0.3546
+85	3	1.0	0.3484	stop_words_original tokenizer	1.0	0.3497	print tokens_total gram	1.0	0.3509	1 ngrams tokens 1	1.0	0.3521	fdistn 1 nltk freqdist gram	1.0	0.3534	nltk freqdist gram 1 fdist_for_sort 1	1	0.3546
+86	5	1.0	0.3484	tokenizer regexptokenizer	1.0	0.3497	tokens_total gram fdistn	1.0	0.3509	ngrams tokens 1 fdistn	1.0	0.3521	1 nltk freqdist gram 1	1.0	0.3534	freqdist gram 1 fdist_for_sort 1 fdist_sorted	1	0.3546
+87	axis	1.0	0.3484	regexptokenizer r	1.0	0.3497	gram fdistn fdist_for_sort	1.0	0.3509	tokens 1 fdistn 1	1.0	0.3521	nltk freqdist gram 1 fdist_for_sort	1.0	0.3534	gram 1 fdist_for_sort 1 fdist_sorted for	1	0.3546
+88	_result	1.0	0.3484	r w	1.0	0.3497	fdistn fdist_for_sort n1	1.0	0.3509	1 fdistn 1 nltk	1.0	0.3521	freqdist gram 1 fdist_for_sort 1	1.0	0.3534	1 fdist_for_sort 1 fdist_sorted for k	1	0.3546
+89	csv	1.0	0.3484	w text	1.0	0.3497	fdist_for_sort n1 gram	1.0	0.3509	fdistn 1 nltk freqdist	1.0	0.3521	gram 1 fdist_for_sort 1 fdist_sorted	1.0	0.3534	fdist_for_sort 1 fdist_sorted for k v	1	0.3546
+90	to_csv	1.0	0.3484	text open	1.0	0.3497	n1 gram 1	1.0	0.3509	1 nltk freqdist gram	1.0	0.3521	1 fdist_for_sort 1 fdist_sorted for	1.0	0.3534	1 fdist_sorted for k v in	1	0.3546
+91	sep	1.0	0.3484	open inputfile	1.0	0.3497	gram 1 ngrams	1.0	0.3509	nltk freqdist gram 1	1.0	0.3521	fdist_for_sort 1 fdist_sorted for k	1.0	0.3534	fdist_sorted for k v in fdistn	1	0.3546
+92				inputfile r	1.0	0.3497	1 ngrams tokens	1.0	0.3509	freqdist gram 1 fdist_for_sort	1.0	0.3521	1 fdist_sorted for k v	1.0	0.3534	for k v in fdistn 1	1	0.3546
+93				r text1	1.0	0.3497	ngrams tokens 1	1.0	0.3509	gram 1 fdist_for_sort 1	1.0	0.3521	fdist_sorted for k v in	1.0	0.3534	k v in fdistn 1 items	1	0.3546
+94				text1 text	1.0	0.3497	tokens 1 fdistn	1.0	0.3509	1 fdist_for_sort 1 fdist_sorted	1.0	0.3521	k v in fdistn 1	1.0	0.3534	v in fdistn 1 items if	1	0.3546
+95				text read	1.0	0.3497	1 fdistn 1	1.0	0.3509	fdist_for_sort 1 fdist_sorted for	1.0	0.3521	v in fdistn 1 items	1.0	0.3534	in fdistn 1 items if k	1	0.3546
+96				read text2	1.0	0.3497	fdistn 1 nltk	1.0	0.3509	1 fdist_sorted for k	1.0	0.3521	in fdistn 1 items if	1.0	0.3534	fdistn 1 items if k 0	1	0.3546
+97				text2 text1	1.0	0.3497	1 nltk freqdist	1.0	0.3509	fdist_sorted for k v	1.0	0.3521	fdistn 1 items if k	1.0	0.3534	1 items if k 0 in	1	0.3546
+98				text1 lower	1.0	0.3497	freqdist gram 1	1.0	0.3509	v in fdistn 1	1.0	0.3521	1 items if k 0	1.0	0.3534	items if k 0 in stop_words	1	0.3546
+99				lower tokens	1.0	0.3497	gram 1 fdist_for_sort	1.0	0.3509	in fdistn 1 items	1.0	0.3521	items if k 0 in	1.0	0.3534	if k 0 in stop_words pass	1	0.3546
+100				tokens tokenizer	1.0	0.3497	1 fdist_for_sort 1	1.0	0.3509	fdistn 1 items if	1.0	0.3521	if k 0 in stop_words	1.0	0.3534	k 0 in stop_words pass else	1	0.3546
+101				tokenizer tokenize	1.0	0.3497	fdist_for_sort 1 fdist_sorted	1.0	0.3509	1 items if k	1.0	0.3521	k 0 in stop_words pass	1.0	0.3534	0 in stop_words pass else fdist_result	1	0.3546
+102				tokenize text2	1.0	0.3497	1 fdist_sorted for	1.0	0.3509	items if k 0	1.0	0.3521	0 in stop_words pass else	1.0	0.3534	in stop_words pass else fdist_result k	1	0.3546
+103				text2 tokens_total	1.0	0.3497	fdist_sorted for k	1.0	0.3509	if k 0 in	1.0	0.3521	in stop_words pass else fdist_result	1.0	0.3534	stop_words pass else fdist_result k 0	1	0.3546
+104				tokens_total len	1.0	0.3497	in fdistn 1	1.0	0.3509	k 0 in stop_words	1.0	0.3521	stop_words pass else fdist_result k	1.0	0.3534	pass else fdist_result k 0 v	1	0.3546
+105				len tokens	1.0	0.3497	fdistn 1 items	1.0	0.3509	0 in stop_words pass	1.0	0.3521	pass else fdist_result k 0	1.0	0.3534	else fdist_result k 0 v fdist_for_sort	1	0.3546
+106				tokens print	1.0	0.3497	1 items if	1.0	0.3509	in stop_words pass else	1.0	0.3521	else fdist_result k 0 v	1.0	0.3534	fdist_result k 0 v fdist_for_sort 1	1	0.3546
+107				print tokens_total	1.0	0.3497	items if k	1.0	0.3509	stop_words pass else fdist_result	1.0	0.3521	fdist_result k 0 v fdist_for_sort	1.0	0.3534	k 0 v fdist_for_sort 1 append	1	0.3546
+108				tokens_total gram	1.0	0.3497	if k 0	1.0	0.3509	pass else fdist_result k	1.0	0.3521	k 0 v fdist_for_sort 1	1.0	0.3534	0 v fdist_for_sort 1 append fdist_result	1	0.3546
+109				gram fdistn	1.0	0.3497	k 0 in	1.0	0.3509	else fdist_result k 0	1.0	0.3521	0 v fdist_for_sort 1 append	1.0	0.3534	v fdist_for_sort 1 append fdist_result fdist_sorted	1	0.3546
+110				fdistn fdist_for_sort	1.0	0.3497	0 in stop_words	1.0	0.3509	fdist_result k 0 v	1.0	0.3521	v fdist_for_sort 1 append fdist_result	1.0	0.3534	fdist_for_sort 1 append fdist_result fdist_sorted 1	1	0.3546
+111				fdist_for_sort n1	1.0	0.3497	in stop_words pass	1.0	0.3509	k 0 v fdist_for_sort	1.0	0.3521	fdist_for_sort 1 append fdist_result fdist_sorted	1.0	0.3534	1 append fdist_result fdist_sorted 1 sorted	1	0.3546
+112				n1 gram	1.0	0.3497	stop_words pass else	1.0	0.3509	0 v fdist_for_sort 1	1.0	0.3521	1 append fdist_result fdist_sorted 1	1.0	0.3534	append fdist_result fdist_sorted 1 sorted fdist_for_sort	1	0.3546
+113				1 ngrams	1.0	0.3497	else fdist_result k	1.0	0.3509	v fdist_for_sort 1 append	1.0	0.3521	append fdist_result fdist_sorted 1 sorted	1.0	0.3534	fdist_result fdist_sorted 1 sorted fdist_for_sort 1	1	0.3546
+114				tokens 1	1.0	0.3497	fdist_result k 0	1.0	0.3509	fdist_for_sort 1 append fdist_result	1.0	0.3521	fdist_result fdist_sorted 1 sorted fdist_for_sort	1.0	0.3534	fdist_sorted 1 sorted fdist_for_sort 1 key	1	0.3546
+115				1 fdistn	1.0	0.3497	k 0 v	1.0	0.3509	1 append fdist_result fdist_sorted	1.0	0.3521	fdist_sorted 1 sorted fdist_for_sort 1	1.0	0.3534	1 sorted fdist_for_sort 1 key lambda	1	0.3546
+116				1 nltk	1.0	0.3497	0 v fdist_for_sort	1.0	0.3509	append fdist_result fdist_sorted 1	1.0	0.3521	1 sorted fdist_for_sort 1 key	1.0	0.3534	sorted fdist_for_sort 1 key lambda x	1	0.3546
+117				1 fdist_for_sort	1.0	0.3497	v fdist_for_sort 1	1.0	0.3509	fdist_result fdist_sorted 1 sorted	1.0	0.3521	sorted fdist_for_sort 1 key lambda	1.0	0.3534	fdist_for_sort 1 key lambda x x	1	0.3546
+118				1 fdist_sorted	1.0	0.3497	fdist_for_sort 1 append	1.0	0.3509	fdist_sorted 1 sorted fdist_for_sort	1.0	0.3521	fdist_for_sort 1 key lambda x	1.0	0.3534	1 key lambda x x 1	1	0.3546
+119				fdist_sorted for	1.0	0.3497	1 append fdist_result	1.0	0.3509	1 sorted fdist_for_sort 1	1.0	0.3521	1 key lambda x x	1.0	0.3534	r2 map list zip fdist_sorted 1	1	0.3546
+120				1 items	1.0	0.3497	fdist_result fdist_sorted 1	1.0	0.3509	sorted fdist_for_sort 1 key	1.0	0.3521	map list zip fdist_sorted 1	1.0	0.3534	map list zip fdist_sorted 1 need	1	0.3546
+121				if k	1.0	0.3497	fdist_sorted 1 sorted	1.0	0.3509	fdist_for_sort 1 key lambda	1.0	0.3521	list zip fdist_sorted 1 need	1.0	0.3534	list zip fdist_sorted 1 need to	1	0.3546
+122				0 in	1.0	0.3497	1 sorted fdist_for_sort	1.0	0.3509	1 key lambda x	1.0	0.3521	zip fdist_sorted 1 need to	1.0	0.3534	zip fdist_sorted 1 need to further	1	0.3546
+123				stop_words pass	1.0	0.3497	sorted fdist_for_sort 1	1.0	0.3509	list zip fdist_sorted 1	1.0	0.3521	fdist_sorted 1 need to further	1.0	0.3534	fdist_sorted 1 need to further understand	1	0.3546
+124				fdist_result k	1.0	0.3497	fdist_for_sort 1 key	1.0	0.3509	zip fdist_sorted 1 need	1.0	0.3521	1 need to further understand	1.0	0.3534	1 need to further understand zip	1	0.3546
+125				0 v	1.0	0.3497	1 key lambda	1.0	0.3509	fdist_sorted 1 need to	1.0	0.3521	need to further understand zip	1.0	0.3534	need to further understand zip r3	1	0.3546
+126				1 append	1.0	0.3497	zip fdist_sorted 1	1.0	0.3509	1 need to further	1.0	0.3521	to further understand zip r3	1.0	0.3534	to further understand zip r3 round	1	0.3546
+127				1 sorted	1.0	0.3497	fdist_sorted 1 need	1.0	0.3509	need to further understand	1.0	0.3521	further understand zip r3 round	1.0	0.3534	further understand zip r3 round x	1	0.3546
+128				1 key	1.0	0.3497	1 need to	1.0	0.3509	to further understand zip	1.0	0.3521	understand zip r3 round x	1.0	0.3534	understand zip r3 round x tokens_total	1	0.3546
+129				1 need	1.0	0.3497	need to further	1.0	0.3509	further understand zip r3	1.0	0.3521	zip r3 round x tokens_total	1.0	0.3534	zip r3 round x tokens_total 100	1	0.3546
+130				need to	1.0	0.3497	to further understand	1.0	0.3509	understand zip r3 round	1.0	0.3521	r3 round x tokens_total 100	1.0	0.3534	r3 round x tokens_total 100 4	1	0.3546
+131				further understand	1.0	0.3497	further understand zip	1.0	0.3509	zip r3 round x	1.0	0.3521	round x tokens_total 100 4	1.0	0.3534	round x tokens_total 100 4 for	1	0.3546
+132				understand zip	1.0	0.3497	understand zip r3	1.0	0.3509	round x tokens_total 100	1.0	0.3521	x tokens_total 100 4 for	1.0	0.3534	x tokens_total 100 4 for x	1	0.3546
+133				zip r3	1.0	0.3497	zip r3 round	1.0	0.3509	x tokens_total 100 4	1.0	0.3521	tokens_total 100 4 for x	1.0	0.3534	tokens_total 100 4 for x in	1	0.3546
+134				tokens_total 100	1.0	0.3497	x tokens_total 100	1.0	0.3509	tokens_total 100 4 for	1.0	0.3521	for x in r2 df	1.0	0.3534	4 for x in r2 df	1	0.3546
+135				df pd	1.0	0.3497	tokens_total 100 4	1.0	0.3509	x in r2 df	1.0	0.3521	x in r2 df pd	1.0	0.3534	for x in r2 df pd	1	0.3546
+136				columns 1	1.0	0.3497	in r2 df	1.0	0.3509	in r2 df pd	1.0	0.3521	in r2 df pd dataframe	1.0	0.3534	x in r2 df pd dataframe	1	0.3546
+137				1 gram	1.0	0.3497	r2 df pd	1.0	0.3509	r2 df pd dataframe	1.0	0.3521	r2 df pd dataframe r1	1.0	0.3534	in r2 df pd dataframe r1	1	0.3546
+138				gram df	1.0	0.3497	df pd dataframe	1.0	0.3509	df pd dataframe r1	1.0	0.3521	df pd dataframe r1 columns	1.0	0.3534	r2 df pd dataframe r1 columns	1	0.3546
+139				1 freq	1.0	0.3497	r1 columns 1	1.0	0.3509	dataframe r1 columns 1	1.0	0.3521	pd dataframe r1 columns 1	1.0	0.3534	df pd dataframe r1 columns 1	1	0.3546
+140				freq r2	1.0	0.3497	columns 1 gram	1.0	0.3509	r1 columns 1 gram	1.0	0.3521	dataframe r1 columns 1 gram	1.0	0.3534	pd dataframe r1 columns 1 gram	1	0.3546
+141				1 freqratio	1.0	0.3497	1 gram df	1.0	0.3509	columns 1 gram df	1.0	0.3521	r1 columns 1 gram df	1.0	0.3534	dataframe r1 columns 1 gram df	1	0.3546
+142				freqratio r3	1.0	0.3497	gram df 1	1.0	0.3509	1 gram df 1	1.0	0.3521	columns 1 gram df 1	1.0	0.3534	r1 columns 1 gram df 1	1	0.3546
+143				r3 n2	1.0	0.3497	df 1 freq	1.0	0.3509	gram df 1 freq	1.0	0.3521	1 gram df 1 freq	1.0	0.3534	columns 1 gram df 1 freq	1	0.3546
+144				n2 6	1.0	0.3497	1 freq r2	1.0	0.3509	df 1 freq r2	1.0	0.3521	gram df 1 freq r2	1.0	0.3534	1 gram df 1 freq r2	1	0.3546
+145				6 df_n	1.0	0.3497	freq r2 df	1.0	0.3509	1 freq r2 df	1.0	0.3521	df 1 freq r2 df	1.0	0.3534	gram df 1 freq r2 df	1	0.3546
+146				df_n for	1.0	0.3497	r2 df 1	1.0	0.3509	freq r2 df 1	1.0	0.3521	1 freq r2 df 1	1.0	0.3534	df 1 freq r2 df 1	1	0.3546
+147				for num	1.0	0.3497	df 1 freqratio	1.0	0.3509	r2 df 1 freqratio	1.0	0.3521	freq r2 df 1 freqratio	1.0	0.3534	1 freq r2 df 1 freqratio	1	0.3546
+148				num in	1.0	0.3497	1 freqratio r3	1.0	0.3509	df 1 freqratio r3	1.0	0.3521	r2 df 1 freqratio r3	1.0	0.3534	freq r2 df 1 freqratio r3	1	0.3546
+149				in range	1.0	0.3497	freqratio r3 n2	1.0	0.3509	1 freqratio r3 n2	1.0	0.3521	df 1 freqratio r3 n2	1.0	0.3534	r2 df 1 freqratio r3 n2	1	0.3546
+150				range 2	1.0	0.3497	r3 n2 6	1.0	0.3509	freqratio r3 n2 6	1.0	0.3521	1 freqratio r3 n2 6	1.0	0.3534	df 1 freqratio r3 n2 6	1	0.3546
+151				2 7	1.0	0.3497	n2 6 df_n	1.0	0.3509	r3 n2 6 df_n	1.0	0.3521	freqratio r3 n2 6 df_n	1.0	0.3534	1 freqratio r3 n2 6 df_n	1	0.3546
+152				7 gram	1.0	0.3497	6 df_n for	1.0	0.3509	n2 6 df_n for	1.0	0.3521	r3 n2 6 df_n for	1.0	0.3534	freqratio r3 n2 6 df_n for	1	0.3546
+153				num ngrams	1.0	0.3497	df_n for num	1.0	0.3509	6 df_n for num	1.0	0.3521	n2 6 df_n for num	1.0	0.3534	r3 n2 6 df_n for num	1	0.3546
+154				tokens num	1.0	0.3497	for num in	1.0	0.3509	df_n for num in	1.0	0.3521	6 df_n for num in	1.0	0.3534	n2 6 df_n for num in	1	0.3546
+155				num fdistn	1.0	0.3497	num in range	1.0	0.3509	for num in range	1.0	0.3521	df_n for num in range	1.0	0.3534	6 df_n for num in range	1	0.3546
+156				num nltk	1.0	0.3497	in range 2	1.0	0.3509	num in range 2	1.0	0.3521	for num in range 2	1.0	0.3534	df_n for num in range 2	1	0.3546
+157				num fdist_for_sort	1.0	0.3497	range 2 7	1.0	0.3509	in range 2 7	1.0	0.3521	num in range 2 7	1.0	0.3534	for num in range 2 7	1	0.3546
+158				num for	1.0	0.3497	2 7 gram	1.0	0.3509	range 2 7 gram	1.0	0.3521	in range 2 7 gram	1.0	0.3534	num in range 2 7 gram	1	0.3546
+159				num items	1.0	0.3497	7 gram num	1.0	0.3509	2 7 gram num	1.0	0.3521	range 2 7 gram num	1.0	0.3534	in range 2 7 gram num	1	0.3546
+160				stop_words for	1.0	0.3497	gram num ngrams	1.0	0.3509	7 gram num ngrams	1.0	0.3521	2 7 gram num ngrams	1.0	0.3534	range 2 7 gram num ngrams	1	0.3546
+161				in k	1.0	0.3497	num ngrams tokens	1.0	0.3509	gram num ngrams tokens	1.0	0.3521	7 gram num ngrams tokens	1.0	0.3534	2 7 gram num ngrams tokens	1	0.3546
+162				k pass	1.0	0.3497	ngrams tokens num	1.0	0.3509	num ngrams tokens num	1.0	0.3521	gram num ngrams tokens num	1.0	0.3534	7 gram num ngrams tokens num	1	0.3546
+163				fdist_result join	1.0	0.3497	tokens num fdistn	1.0	0.3509	ngrams tokens num fdistn	1.0	0.3521	num ngrams tokens num fdistn	1.0	0.3534	gram num ngrams tokens num fdistn	1	0.3546
+164				join k	1.0	0.3497	num fdistn num	1.0	0.3509	tokens num fdistn num	1.0	0.3521	ngrams tokens num fdistn num	1.0	0.3534	num ngrams tokens num fdistn num	1	0.3546
+165				num append	1.0	0.3497	fdistn num nltk	1.0	0.3509	num fdistn num nltk	1.0	0.3521	tokens num fdistn num nltk	1.0	0.3534	ngrams tokens num fdistn num nltk	1	0.3546
+166				num sorted	1.0	0.3497	num nltk freqdist	1.0	0.3509	fdistn num nltk freqdist	1.0	0.3521	num fdistn num nltk freqdist	1.0	0.3534	tokens num fdistn num nltk freqdist	1	0.3546
+167				num key	1.0	0.3497	freqdist gram num	1.0	0.3509	num nltk freqdist gram	1.0	0.3521	fdistn num nltk freqdist gram	1.0	0.3534	num fdistn num nltk freqdist gram	1	0.3546
+168				num r3	1.0	0.3497	gram num fdist_for_sort	1.0	0.3509	nltk freqdist gram num	1.0	0.3521	num nltk freqdist gram num	1.0	0.3534	fdistn num nltk freqdist gram num	1	0.3546
+169				tokens_total num	1.0	0.3497	num fdist_for_sort num	1.0	0.3509	freqdist gram num fdist_for_sort	1.0	0.3521	nltk freqdist gram num fdist_for_sort	1.0	0.3534	num nltk freqdist gram num fdist_for_sort	1	0.3546
+170				num 1	1.0	0.3497	fdist_for_sort num for	1.0	0.3509	gram num fdist_for_sort num	1.0	0.3521	freqdist gram num fdist_for_sort num	1.0	0.3534	nltk freqdist gram num fdist_for_sort num	1	0.3546
+171				1 100	1.0	0.3497	num for k	1.0	0.3509	num fdist_for_sort num for	1.0	0.3521	gram num fdist_for_sort num for	1.0	0.3534	freqdist gram num fdist_for_sort num for	1	0.3546
+172				r2 col1	1.0	0.3497	in fdistn num	1.0	0.3509	fdist_for_sort num for k	1.0	0.3521	num fdist_for_sort num for k	1.0	0.3534	gram num fdist_for_sort num for k	1	0.3546
+173				col1 str	1.0	0.3497	fdistn num items	1.0	0.3509	num for k v	1.0	0.3521	fdist_for_sort num for k v	1.0	0.3534	num fdist_for_sort num for k v	1	0.3546
+174				num gram	1.0	0.3497	num items if	1.0	0.3509	v in fdistn num	1.0	0.3521	num for k v in	1.0	0.3534	fdist_for_sort num for k v in	1	0.3546
+175				gram col2	1.0	0.3497	items if all	1.0	0.3509	in fdistn num items	1.0	0.3521	k v in fdistn num	1.0	0.3534	num for k v in fdistn	1	0.3546
+176				col2 str	1.0	0.3497	i in stop_words	1.0	0.3509	fdistn num items if	1.0	0.3521	v in fdistn num items	1.0	0.3534	for k v in fdistn num	1	0.3546
+177				num freq	1.0	0.3497	in stop_words for	1.0	0.3509	num items if all	1.0	0.3521	in fdistn num items if	1.0	0.3534	k v in fdistn num items	1	0.3546
+178				freq col3	1.0	0.3497	stop_words for i	1.0	0.3509	items if all i	1.0	0.3521	fdistn num items if all	1.0	0.3534	v in fdistn num items if	1	0.3546
+179				col3 str	1.0	0.3497	i in k	1.0	0.3509	all i in stop_words	1.0	0.3521	num items if all i	1.0	0.3534	in fdistn num items if all	1	0.3546
+180				num freqratio	1.0	0.3497	in k pass	1.0	0.3509	i in stop_words for	1.0	0.3521	items if all i in	1.0	0.3534	fdistn num items if all i	1	0.3546
+181				freqratio df_n	1.0	0.3497	k pass else	1.0	0.3509	in stop_words for i	1.0	0.3521	if all i in stop_words	1.0	0.3534	num items if all i in	1	0.3546
+182				num pd	1.0	0.3497	else fdist_result join	1.0	0.3509	stop_words for i in	1.0	0.3521	all i in stop_words for	1.0	0.3534	items if all i in stop_words	1	0.3546
+183				columns col1	1.0	0.3497	fdist_result join k	1.0	0.3509	for i in k	1.0	0.3521	i in stop_words for i	1.0	0.3534	if all i in stop_words for	1	0.3546
+184				col1 df_n	1.0	0.3497	join k v	1.0	0.3509	i in k pass	1.0	0.3521	in stop_words for i in	1.0	0.3534	all i in stop_words for i	1	0.3546
+185				num col2	1.0	0.3497	k v fdist_for_sort	1.0	0.3509	in k pass else	1.0	0.3521	stop_words for i in k	1.0	0.3534	i in stop_words for i in	1	0.3546
+186				col2 r2	1.0	0.3497	v fdist_for_sort num	1.0	0.3509	k pass else fdist_result	1.0	0.3521	for i in k pass	1.0	0.3534	in stop_words for i in k	1	0.3546
+187				r2 df_n	1.0	0.3497	fdist_for_sort num append	1.0	0.3509	pass else fdist_result join	1.0	0.3521	i in k pass else	1.0	0.3534	stop_words for i in k pass	1	0.3546
+188				num col3	1.0	0.3497	num append fdist_result	1.0	0.3509	else fdist_result join k	1.0	0.3521	in k pass else fdist_result	1.0	0.3534	for i in k pass else	1	0.3546
+189				col3 r3	1.0	0.3497	fdist_result fdist_sorted num	1.0	0.3509	fdist_result join k v	1.0	0.3521	k pass else fdist_result join	1.0	0.3534	i in k pass else fdist_result	1	0.3546
+190				r3 df_final	1.0	0.3497	fdist_sorted num sorted	1.0	0.3509	join k v fdist_for_sort	1.0	0.3521	pass else fdist_result join k	1.0	0.3534	in k pass else fdist_result join	1	0.3546
+191				df_final pd	1.0	0.3497	num sorted fdist_for_sort	1.0	0.3509	k v fdist_for_sort num	1.0	0.3521	else fdist_result join k v	1.0	0.3534	k pass else fdist_result join k	1	0.3546
+192				pd concat	1.0	0.3497	sorted fdist_for_sort num	1.0	0.3509	v fdist_for_sort num append	1.0	0.3521	fdist_result join k v fdist_for_sort	1.0	0.3534	pass else fdist_result join k v	1	0.3546
+193				concat df	1.0	0.3497	fdist_for_sort num key	1.0	0.3509	fdist_for_sort num append fdist_result	1.0	0.3521	join k v fdist_for_sort num	1.0	0.3534	else fdist_result join k v fdist_for_sort	1	0.3546
+194				df df_n	1.0	0.3497	num key lambda	1.0	0.3509	num append fdist_result fdist_sorted	1.0	0.3521	k v fdist_for_sort num append	1.0	0.3534	fdist_result join k v fdist_for_sort num	1	0.3546
+195				df_n 2	1.0	0.3497	zip fdist_sorted num	1.0	0.3509	append fdist_result fdist_sorted num	1.0	0.3521	v fdist_for_sort num append fdist_result	1.0	0.3534	join k v fdist_for_sort num append	1	0.3546
+196				2 df_n	1.0	0.3497	fdist_sorted num r3	1.0	0.3509	fdist_result fdist_sorted num sorted	1.0	0.3521	fdist_for_sort num append fdist_result fdist_sorted	1.0	0.3534	k v fdist_for_sort num append fdist_result	1	0.3546
+197				df_n 3	1.0	0.3497	num r3 round	1.0	0.3509	fdist_sorted num sorted fdist_for_sort	1.0	0.3521	num append fdist_result fdist_sorted num	1.0	0.3534	v fdist_for_sort num append fdist_result fdist_sorted	1	0.3546
+198				3 df_n	1.0	0.3497	x tokens_total num	1.0	0.3509	num sorted fdist_for_sort num	1.0	0.3521	append fdist_result fdist_sorted num sorted	1.0	0.3534	fdist_for_sort num append fdist_result fdist_sorted num	1	0.3546
+199				df_n 4	1.0	0.3497	tokens_total num 1	1.0	0.3509	sorted fdist_for_sort num key	1.0	0.3521	fdist_result fdist_sorted num sorted fdist_for_sort	1.0	0.3534	num append fdist_result fdist_sorted num sorted	1	0.3546
+200				4 df_n	1.0	0.3497	num 1 100	1.0	0.3509	fdist_for_sort num key lambda	1.0	0.3521	fdist_sorted num sorted fdist_for_sort num	1.0	0.3534	append fdist_result fdist_sorted num sorted fdist_for_sort	1	0.3546
+201				df_n 5	1.0	0.3497	1 100 4	1.0	0.3509	num key lambda x	1.0	0.3521	num sorted fdist_for_sort num key	1.0	0.3534	fdist_result fdist_sorted num sorted fdist_for_sort num	1	0.3546
+202				5 df_n	1.0	0.3497	in r2 col1	1.0	0.3509	list zip fdist_sorted num	1.0	0.3521	sorted fdist_for_sort num key lambda	1.0	0.3534	fdist_sorted num sorted fdist_for_sort num key	1	0.3546
+203				df_n 6	1.0	0.3497	r2 col1 str	1.0	0.3509	zip fdist_sorted num r3	1.0	0.3521	fdist_for_sort num key lambda x	1.0	0.3534	num sorted fdist_for_sort num key lambda	1	0.3546
+204				6 axis	1.0	0.3497	col1 str num	1.0	0.3509	fdist_sorted num r3 round	1.0	0.3521	num key lambda x x	1.0	0.3534	sorted fdist_for_sort num key lambda x	1	0.3546
+205				axis 1	1.0	0.3497	str num gram	1.0	0.3509	num r3 round x	1.0	0.3521	map list zip fdist_sorted num	1.0	0.3534	fdist_for_sort num key lambda x x	1	0.3546
+206				1 output_file	1.0	0.3497	num gram col2	1.0	0.3509	round x tokens_total num	1.0	0.3521	list zip fdist_sorted num r3	1.0	0.3534	num key lambda x x 1	1	0.3546
+207				output_file inputfile	1.0	0.3497	gram col2 str	1.0	0.3509	x tokens_total num 1	1.0	0.3521	zip fdist_sorted num r3 round	1.0	0.3534	r2 map list zip fdist_sorted num	1	0.3546
+208				inputfile _result	1.0	0.3497	col2 str num	1.0	0.3509	tokens_total num 1 100	1.0	0.3521	fdist_sorted num r3 round x	1.0	0.3534	map list zip fdist_sorted num r3	1	0.3546
+209				_result csv	1.0	0.3497	str num freq	1.0	0.3509	num 1 100 4	1.0	0.3521	num r3 round x tokens_total	1.0	0.3534	list zip fdist_sorted num r3 round	1	0.3546
+210				csv df_final	1.0	0.3497	num freq col3	1.0	0.3509	1 100 4 for	1.0	0.3521	r3 round x tokens_total num	1.0	0.3534	zip fdist_sorted num r3 round x	1	0.3546
+211				df_final to_csv	1.0	0.3497	freq col3 str	1.0	0.3509	x in r2 col1	1.0	0.3521	round x tokens_total num 1	1.0	0.3534	fdist_sorted num r3 round x tokens_total	1	0.3546
+212				to_csv output_file	1.0	0.3497	col3 str num	1.0	0.3509	in r2 col1 str	1.0	0.3521	x tokens_total num 1 100	1.0	0.3534	num r3 round x tokens_total num	1	0.3546
+213				output_file sep	1.0	0.3497	str num freqratio	1.0	0.3509	r2 col1 str num	1.0	0.3521	tokens_total num 1 100 4	1.0	0.3534	r3 round x tokens_total num 1	1	0.3546
+214				sep t	1.0	0.3497	num freqratio df_n	1.0	0.3509	col1 str num gram	1.0	0.3521	num 1 100 4 for	1.0	0.3534	round x tokens_total num 1 100	1	0.3546
+215				t main	1.0	0.3497	freqratio df_n num	1.0	0.3509	str num gram col2	1.0	0.3521	1 100 4 for x	1.0	0.3534	x tokens_total num 1 100 4	1	0.3546
+216							df_n num pd	1.0	0.3509	num gram col2 str	1.0	0.3521	for x in r2 col1	1.0	0.3534	tokens_total num 1 100 4 for	1	0.3546
+217							num pd dataframe	1.0	0.3509	gram col2 str num	1.0	0.3521	x in r2 col1 str	1.0	0.3534	num 1 100 4 for x	1	0.3546
+218							r1 columns col1	1.0	0.3509	col2 str num freq	1.0	0.3521	in r2 col1 str num	1.0	0.3534	1 100 4 for x in	1	0.3546
+219							columns col1 df_n	1.0	0.3509	str num freq col3	1.0	0.3521	r2 col1 str num gram	1.0	0.3534	4 for x in r2 col1	1	0.3546
+220							col1 df_n num	1.0	0.3509	num freq col3 str	1.0	0.3521	col1 str num gram col2	1.0	0.3534	for x in r2 col1 str	1	0.3546
+221							df_n num col2	1.0	0.3509	freq col3 str num	1.0	0.3521	str num gram col2 str	1.0	0.3534	x in r2 col1 str num	1	0.3546
+222							num col2 r2	1.0	0.3509	col3 str num freqratio	1.0	0.3521	num gram col2 str num	1.0	0.3534	in r2 col1 str num gram	1	0.3546
+223							col2 r2 df_n	1.0	0.3509	str num freqratio df_n	1.0	0.3521	gram col2 str num freq	1.0	0.3534	r2 col1 str num gram col2	1	0.3546
+224							r2 df_n num	1.0	0.3509	num freqratio df_n num	1.0	0.3521	col2 str num freq col3	1.0	0.3534	col1 str num gram col2 str	1	0.3546
+225							df_n num col3	1.0	0.3509	freqratio df_n num pd	1.0	0.3521	str num freq col3 str	1.0	0.3534	str num gram col2 str num	1	0.3546
+226							num col3 r3	1.0	0.3509	df_n num pd dataframe	1.0	0.3521	num freq col3 str num	1.0	0.3534	num gram col2 str num freq	1	0.3546
+227							col3 r3 df_final	1.0	0.3509	num pd dataframe r1	1.0	0.3521	freq col3 str num freqratio	1.0	0.3534	gram col2 str num freq col3	1	0.3546
+228							r3 df_final pd	1.0	0.3509	dataframe r1 columns col1	1.0	0.3521	col3 str num freqratio df_n	1.0	0.3534	col2 str num freq col3 str	1	0.3546
+229							df_final pd concat	1.0	0.3509	r1 columns col1 df_n	1.0	0.3521	str num freqratio df_n num	1.0	0.3534	str num freq col3 str num	1	0.3546
+230							pd concat df	1.0	0.3509	columns col1 df_n num	1.0	0.3521	num freqratio df_n num pd	1.0	0.3534	num freq col3 str num freqratio	1	0.3546
+231							concat df df_n	1.0	0.3509	col1 df_n num col2	1.0	0.3521	freqratio df_n num pd dataframe	1.0	0.3534	freq col3 str num freqratio df_n	1	0.3546
+232							df df_n 2	1.0	0.3509	df_n num col2 r2	1.0	0.3521	df_n num pd dataframe r1	1.0	0.3534	col3 str num freqratio df_n num	1	0.3546
+233							df_n 2 df_n	1.0	0.3509	num col2 r2 df_n	1.0	0.3521	num pd dataframe r1 columns	1.0	0.3534	str num freqratio df_n num pd	1	0.3546
+234							2 df_n 3	1.0	0.3509	col2 r2 df_n num	1.0	0.3521	pd dataframe r1 columns col1	1.0	0.3534	num freqratio df_n num pd dataframe	1	0.3546
+235							df_n 3 df_n	1.0	0.3509	r2 df_n num col3	1.0	0.3521	dataframe r1 columns col1 df_n	1.0	0.3534	freqratio df_n num pd dataframe r1	1	0.3546
+236							3 df_n 4	1.0	0.3509	df_n num col3 r3	1.0	0.3521	r1 columns col1 df_n num	1.0	0.3534	df_n num pd dataframe r1 columns	1	0.3546
+237							df_n 4 df_n	1.0	0.3509	num col3 r3 df_final	1.0	0.3521	columns col1 df_n num col2	1.0	0.3534	num pd dataframe r1 columns col1	1	0.3546
+238							4 df_n 5	1.0	0.3509	col3 r3 df_final pd	1.0	0.3521	col1 df_n num col2 r2	1.0	0.3534	pd dataframe r1 columns col1 df_n	1	0.3546
+239							df_n 5 df_n	1.0	0.3509	r3 df_final pd concat	1.0	0.3521	df_n num col2 r2 df_n	1.0	0.3534	dataframe r1 columns col1 df_n num	1	0.3546
+240							5 df_n 6	1.0	0.3509	df_final pd concat df	1.0	0.3521	num col2 r2 df_n num	1.0	0.3534	r1 columns col1 df_n num col2	1	0.3546
+241							df_n 6 axis	1.0	0.3509	pd concat df df_n	1.0	0.3521	col2 r2 df_n num col3	1.0	0.3534	columns col1 df_n num col2 r2	1	0.3546
+242							6 axis 1	1.0	0.3509	concat df df_n 2	1.0	0.3521	r2 df_n num col3 r3	1.0	0.3534	col1 df_n num col2 r2 df_n	1	0.3546
+243							axis 1 output_file	1.0	0.3509	df df_n 2 df_n	1.0	0.3521	df_n num col3 r3 df_final	1.0	0.3534	df_n num col2 r2 df_n num	1	0.3546
+244							1 output_file inputfile	1.0	0.3509	df_n 2 df_n 3	1.0	0.3521	num col3 r3 df_final pd	1.0	0.3534	num col2 r2 df_n num col3	1	0.3546
+245							output_file inputfile _result	1.0	0.3509	2 df_n 3 df_n	1.0	0.3521	col3 r3 df_final pd concat	1.0	0.3534	col2 r2 df_n num col3 r3	1	0.3546
+246							inputfile _result csv	1.0	0.3509	df_n 3 df_n 4	1.0	0.3521	r3 df_final pd concat df	1.0	0.3534	r2 df_n num col3 r3 df_final	1	0.3546
+247							_result csv df_final	1.0	0.3509	3 df_n 4 df_n	1.0	0.3521	df_final pd concat df df_n	1.0	0.3534	df_n num col3 r3 df_final pd	1	0.3546
+248							csv df_final to_csv	1.0	0.3509	df_n 4 df_n 5	1.0	0.3521	pd concat df df_n 2	1.0	0.3534	num col3 r3 df_final pd concat	1	0.3546
+249							df_final to_csv output_file	1.0	0.3509	4 df_n 5 df_n	1.0	0.3521	concat df df_n 2 df_n	1.0	0.3534	col3 r3 df_final pd concat df	1	0.3546
+250							to_csv output_file sep	1.0	0.3509	df_n 5 df_n 6	1.0	0.3521	df df_n 2 df_n 3	1.0	0.3534	r3 df_final pd concat df df_n	1	0.3546
+251							output_file sep t	1.0	0.3509	5 df_n 6 axis	1.0	0.3521	df_n 2 df_n 3 df_n	1.0	0.3534	df_final pd concat df df_n 2	1	0.3546
+252							sep t main	1.0	0.3509	df_n 6 axis 1	1.0	0.3521	2 df_n 3 df_n 4	1.0	0.3534	pd concat df df_n 2 df_n	1	0.3546
+253										6 axis 1 output_file	1.0	0.3521	df_n 3 df_n 4 df_n	1.0	0.3534	concat df df_n 2 df_n 3	1	0.3546
+254										axis 1 output_file inputfile	1.0	0.3521	3 df_n 4 df_n 5	1.0	0.3534	df df_n 2 df_n 3 df_n	1	0.3546
+255										1 output_file inputfile _result	1.0	0.3521	df_n 4 df_n 5 df_n	1.0	0.3534	df_n 2 df_n 3 df_n 4	1	0.3546
+256										output_file inputfile _result csv	1.0	0.3521	4 df_n 5 df_n 6	1.0	0.3534	2 df_n 3 df_n 4 df_n	1	0.3546
+257										inputfile _result csv df_final	1.0	0.3521	df_n 5 df_n 6 axis	1.0	0.3534	df_n 3 df_n 4 df_n 5	1	0.3546
+258										_result csv df_final to_csv	1.0	0.3521	5 df_n 6 axis 1	1.0	0.3534	3 df_n 4 df_n 5 df_n	1	0.3546
+259										csv df_final to_csv output_file	1.0	0.3521	df_n 6 axis 1 output_file	1.0	0.3534	df_n 4 df_n 5 df_n 6	1	0.3546
+260										df_final to_csv output_file sep	1.0	0.3521	6 axis 1 output_file inputfile	1.0	0.3534	4 df_n 5 df_n 6 axis	1	0.3546
+261										to_csv output_file sep t	1.0	0.3521	axis 1 output_file inputfile _result	1.0	0.3534	df_n 5 df_n 6 axis 1	1	0.3546
+262										output_file sep t main	1.0	0.3521	1 output_file inputfile _result csv	1.0	0.3534	5 df_n 6 axis 1 output_file	1	0.3546
+263													output_file inputfile _result csv df_final	1.0	0.3534	df_n 6 axis 1 output_file inputfile	1	0.3546
+264													inputfile _result csv df_final to_csv	1.0	0.3534	6 axis 1 output_file inputfile _result	1	0.3546
+265													_result csv df_final to_csv output_file	1.0	0.3534	axis 1 output_file inputfile _result csv	1	0.3546
+266													csv df_final to_csv output_file sep	1.0	0.3534	1 output_file inputfile _result csv df_final	1	0.3546
+267													df_final to_csv output_file sep t	1.0	0.3534	output_file inputfile _result csv df_final to_csv	1	0.3546
+268													to_csv output_file sep t main	1.0	0.3534	inputfile _result csv df_final to_csv output_file	1	0.3546
+269																_result csv df_final to_csv output_file sep	1	0.3546
+270																csv df_final to_csv output_file sep t	1	0.3546
+271																df_final to_csv output_file sep t main	1	0.3546

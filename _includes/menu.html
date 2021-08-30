@@ -1,0 +1,12 @@
+
+<p style="font-size:16px;text-align:center;display: inline" >
+        
+    <a href = "../index.html" style="color:darkgray"> Home </a> 
+    
+    {% for text in site.text %}
+      - <a style="color:darkgray" href="{{ text.url | relative_url }}">  {{ text.shorttitle }} </a> 
+    {% endfor %}
+
+  </p>
+
+<hr>

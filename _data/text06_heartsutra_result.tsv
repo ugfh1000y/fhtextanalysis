@@ -1,0 +1,316 @@
+id	1gram	1freq	1freqratio	2gram	2freq	2freqratio	3gram	3freq	3freqratio	4gram	4freq	4freqratio	5gram	5freq	5freqratio	6gram	6freq	6freqratio
+0	insight	6.0	1.7241	the insight	5.0	1.4409	the insight that	5.0	1.4451	the insight that brings	5.0	1.4493	the insight that brings us	5.0	1.4535	the insight that brings us to	5	1.4577
+1	us	6.0	1.7241	insight that	5.0	1.4409	insight that brings	5.0	1.4451	insight that brings us	5.0	1.4493	insight that brings us to	5.0	1.4535	insight that brings us to the	5	1.4577
+2	emptiness	6.0	1.7241	that brings	5.0	1.4409	that brings us	5.0	1.4451	that brings us to	5.0	1.4493	that brings us to the	5.0	1.4535	that brings us to the other	5	1.4577
+3	gate	6.0	1.7241	brings us	5.0	1.4409	brings us to	5.0	1.4451	brings us to the	5.0	1.4493	brings us to the other	5.0	1.4535	brings us to the other shore	5	1.4577
+4	brings	5.0	1.4368	us to	5.0	1.4409	us to the	5.0	1.4451	us to the other	5.0	1.4493	us to the other shore	5.0	1.4535	are also not separate self entities	3	0.8746
+5	shore	5.0	1.4368	other shore	5.0	1.4409	the other shore	5.0	1.4451	to the other shore	5.0	1.4493	are also not separate self	3.0	0.8721	gate gate paragate parasamgate bodhi svaha	3	0.8746
+6	body	5.0	1.4368	ill being	4.0	1.1527	not separate self	4.0	1.1561	not separate self entities	4.0	1.1594	also not separate self entities	3.0	0.8721	feelings perceptions mental formations and consciousness	2	0.5831
+7	mantra	5.0	1.4368	this body	4.0	1.1527	separate self entities	4.0	1.1561	are also not separate	3.0	0.8696	gate gate paragate parasamgate bodhi	3.0	0.8721	no more obstacles in their mind	2	0.5831
+8	ill	4.0	1.1494	not separate	4.0	1.1527	are also not	3.0	0.8671	also not separate self	3.0	0.8696	gate paragate parasamgate bodhi svaha	3.0	0.8721	gate paragate parasamgate bodhi svaha gate	2	0.5831
+9	separate	4.0	1.1494	separate self	4.0	1.1527	also not separate	3.0	0.8671	gate gate paragate parasamgate	3.0	0.8696	feelings perceptions mental formations and	2.0	0.5814	paragate parasamgate bodhi svaha gate gate	2	0.5831
+10	self	4.0	1.1494	self entities	4.0	1.1527	ill being the	3.0	0.8671	gate paragate parasamgate bodhi	3.0	0.8696	perceptions mental formations and consciousness	2.0	0.5814	parasamgate bodhi svaha gate gate paragate	2	0.5831
+11	entities	4.0	1.1494	the six	3.0	0.8646	gate gate paragate	3.0	0.8671	paragate parasamgate bodhi svaha	3.0	0.8696	not separate self entities the	2.0	0.5814	bodhi svaha gate gate paragate parasamgate	2	0.5831
+12	sariputra	3.0	0.8621	are also	3.0	0.8646	gate paragate parasamgate	3.0	0.8671	feelings perceptions mental formations	2.0	0.5797	no more obstacles in their	2.0	0.5814	svaha gate gate paragate parasamgate bodhi	2	0.5831
+13	true	3.0	0.8621	also not	3.0	0.8646	paragate parasamgate bodhi	3.0	0.8671	perceptions mental formations and	2.0	0.5797	more obstacles in their mind	2.0	0.5814	avalokiteshvara while practicing deeply with the	1	0.2915
+14	perceptions	3.0	0.8621	gate gate	3.0	0.8646	parasamgate bodhi svaha	3.0	0.8671	mental formations and consciousness	2.0	0.5797	paragate parasamgate bodhi svaha gate	2.0	0.5814	while practicing deeply with the insight	1	0.2915
+15	six	3.0	0.8621	gate paragate	3.0	0.8646	emptiness and emptiness	2.0	0.578	separate self entities the	2.0	0.5797	parasamgate bodhi svaha gate gate	2.0	0.5814	practicing deeply with the insight that	1	0.2915
+16	also	3.0	0.8621	paragate parasamgate	3.0	0.8646	feelings perceptions mental	2.0	0.578	of ill being the	2.0	0.5797	bodhi svaha gate gate paragate	2.0	0.5814	deeply with the insight that brings	1	0.2915
+17	paragate	3.0	0.8621	parasamgate bodhi	3.0	0.8646	perceptions mental formations	2.0	0.578	no more obstacles in	2.0	0.5797	svaha gate gate paragate parasamgate	2.0	0.5814	with the insight that brings us	1	0.2915
+18	parasamgate	3.0	0.8621	bodhi svaha	3.0	0.8646	mental formations and	2.0	0.578	more obstacles in their	2.0	0.5797	avalokiteshvara while practicing deeply with	1.0	0.2907	us to the other shore suddenly	1	0.2915
+19	bodhi	3.0	0.8621	listen sariputra	2.0	0.5764	formations and consciousness	2.0	0.578	obstacles in their mind	2.0	0.5797	while practicing deeply with the	1.0	0.2907	to the other shore suddenly discovered	1	0.2915
+20	svaha	3.0	0.8621	emptiness and	2.0	0.5764	self entities the	2.0	0.578	parasamgate bodhi svaha gate	2.0	0.5797	practicing deeply with the insight	1.0	0.2907	the other shore suddenly discovered that	1	0.2915
+21	practicing	2.0	0.5747	and emptiness	2.0	0.5764	the six sense	2.0	0.578	bodhi svaha gate gate	2.0	0.5797	deeply with the insight that	1.0	0.2907	other shore suddenly discovered that all	1	0.2915
+22	listen	2.0	0.5747	feelings perceptions	2.0	0.5764	of ill being	2.0	0.578	svaha gate gate paragate	2.0	0.5797	with the insight that brings	1.0	0.2907	shore suddenly discovered that all of	1	0.2915
+23	feelings	2.0	0.5747	perceptions mental	2.0	0.5764	no more obstacles	2.0	0.578	avalokiteshvara while practicing deeply	1.0	0.2899	to the other shore suddenly	1.0	0.2907	suddenly discovered that all of the	1	0.2915
+24	mental	2.0	0.5747	mental formations	2.0	0.5764	more obstacles in	2.0	0.578	while practicing deeply with	1.0	0.2899	the other shore suddenly discovered	1.0	0.2907	discovered that all of the five	1	0.2915
+25	formations	2.0	0.5747	formations and	2.0	0.5764	obstacles in their	2.0	0.578	practicing deeply with the	1.0	0.2899	other shore suddenly discovered that	1.0	0.2907	that all of the five skandhas	1	0.2915
+26	consciousness	2.0	0.5747	and consciousness	2.0	0.5764	in their mind	2.0	0.578	deeply with the insight	1.0	0.2899	shore suddenly discovered that all	1.0	0.2907	all of the five skandhas are	1	0.2915
+27	phenomena	2.0	0.5747	entities the	2.0	0.5764	bodhi svaha gate	2.0	0.578	with the insight that	1.0	0.2899	suddenly discovered that all of	1.0	0.2907	of the five skandhas are equally	1	0.2915
+28	nature	2.0	0.5747	six sense	2.0	0.5764	svaha gate gate	2.0	0.578	the other shore suddenly	1.0	0.2899	discovered that all of the	1.0	0.2907	the five skandhas are equally empty	1	0.2915
+29	sense	2.0	0.5747	of ill	2.0	0.5764	avalokiteshvara while practicing	1.0	0.289	other shore suddenly discovered	1.0	0.2899	that all of the five	1.0	0.2907	five skandhas are equally empty and	1	0.2915
+30	end	2.0	0.5747	more obstacles	2.0	0.5764	while practicing deeply	1.0	0.289	shore suddenly discovered that	1.0	0.2899	all of the five skandhas	1.0	0.2907	skandhas are equally empty and with	1	0.2915
+31	see	2.0	0.5747	obstacles in	2.0	0.5764	practicing deeply with	1.0	0.289	suddenly discovered that all	1.0	0.2899	of the five skandhas are	1.0	0.2907	are equally empty and with this	1	0.2915
+32	obstacles	2.0	0.5747	their mind	2.0	0.5764	deeply with the	1.0	0.289	discovered that all of	1.0	0.2899	the five skandhas are equally	1.0	0.2907	equally empty and with this realisation	1	0.2915
+33	mind	2.0	0.5747	mantra the	2.0	0.5764	with the insight	1.0	0.289	all of the five	1.0	0.2899	five skandhas are equally empty	1.0	0.2907	empty and with this realisation he	1	0.2915
+34	perfect	2.0	0.5747	a mantra	2.0	0.5764	other shore suddenly	1.0	0.289	of the five skandhas	1.0	0.2899	skandhas are equally empty and	1.0	0.2907	and with this realisation he overcame	1	0.2915
+35	therefore	2.0	0.5747	svaha gate	2.0	0.5764	shore suddenly discovered	1.0	0.289	the five skandhas are	1.0	0.2899	are equally empty and with	1.0	0.2907	with this realisation he overcame all	1	0.2915
+36	avalokiteshvara	1.0	0.2874	avalokiteshvara while	1.0	0.2882	suddenly discovered that	1.0	0.289	five skandhas are equally	1.0	0.2899	equally empty and with this	1.0	0.2907	this realisation he overcame all ill	1	0.2915
+37	deeply	1.0	0.2874	while practicing	1.0	0.2882	discovered that all	1.0	0.289	skandhas are equally empty	1.0	0.2899	empty and with this realisation	1.0	0.2907	realisation he overcame all ill being	1	0.2915
+38	suddenly	1.0	0.2874	practicing deeply	1.0	0.2882	of the five	1.0	0.289	are equally empty and	1.0	0.2899	and with this realisation he	1.0	0.2907	he overcame all ill being listen	1	0.2915
+39	discovered	1.0	0.2874	deeply with	1.0	0.2882	the five skandhas	1.0	0.289	equally empty and with	1.0	0.2899	with this realisation he overcame	1.0	0.2907	overcame all ill being listen sariputra	1	0.2915
+40	five	1.0	0.2874	shore suddenly	1.0	0.2882	five skandhas are	1.0	0.289	empty and with this	1.0	0.2899	this realisation he overcame all	1.0	0.2907	all ill being listen sariputra this	1	0.2915
+41	skandhas	1.0	0.2874	suddenly discovered	1.0	0.2882	skandhas are equally	1.0	0.289	and with this realisation	1.0	0.2899	realisation he overcame all ill	1.0	0.2907	ill being listen sariputra this body	1	0.2915
+42	equally	1.0	0.2874	discovered that	1.0	0.2882	are equally empty	1.0	0.289	with this realisation he	1.0	0.2899	he overcame all ill being	1.0	0.2907	being listen sariputra this body itself	1	0.2915
+43	empty	1.0	0.2874	the five	1.0	0.2882	equally empty and	1.0	0.289	this realisation he overcame	1.0	0.2899	overcame all ill being listen	1.0	0.2907	listen sariputra this body itself is	1	0.2915
+44	realisation	1.0	0.2874	five skandhas	1.0	0.2882	empty and with	1.0	0.289	realisation he overcame all	1.0	0.2899	all ill being listen sariputra	1.0	0.2907	sariputra this body itself is emptiness	1	0.2915
+45	overcame	1.0	0.2874	skandhas are	1.0	0.2882	with this realisation	1.0	0.289	he overcame all ill	1.0	0.2899	ill being listen sariputra this	1.0	0.2907	this body itself is emptiness and	1	0.2915
+46	bear	1.0	0.2874	are equally	1.0	0.2882	this realisation he	1.0	0.289	overcame all ill being	1.0	0.2899	being listen sariputra this body	1.0	0.2907	body itself is emptiness and emptiness	1	0.2915
+47	mark	1.0	0.2874	equally empty	1.0	0.2882	realisation he overcame	1.0	0.289	all ill being listen	1.0	0.2899	listen sariputra this body itself	1.0	0.2907	itself is emptiness and emptiness itself	1	0.2915
+48	birth	1.0	0.2874	empty and	1.0	0.2882	he overcame all	1.0	0.289	ill being listen sariputra	1.0	0.2899	sariputra this body itself is	1.0	0.2907	is emptiness and emptiness itself is	1	0.2915
+49	death	1.0	0.2874	this realisation	1.0	0.2882	overcame all ill	1.0	0.289	being listen sariputra this	1.0	0.2899	this body itself is emptiness	1.0	0.2907	emptiness and emptiness itself is this	1	0.2915
+50	non	1.0	0.2874	realisation he	1.0	0.2882	all ill being	1.0	0.289	listen sariputra this body	1.0	0.2899	body itself is emptiness and	1.0	0.2907	and emptiness itself is this body	1	0.2915
+51	defilement	1.0	0.2874	he overcame	1.0	0.2882	ill being listen	1.0	0.289	sariputra this body itself	1.0	0.2899	itself is emptiness and emptiness	1.0	0.2907	emptiness itself is this body this	1	0.2915
+52	purity	1.0	0.2874	overcame all	1.0	0.2882	being listen sariputra	1.0	0.289	this body itself is	1.0	0.2899	is emptiness and emptiness itself	1.0	0.2907	itself is this body this body	1	0.2915
+53	increasing	1.0	0.2874	all ill	1.0	0.2882	listen sariputra this	1.0	0.289	body itself is emptiness	1.0	0.2899	emptiness and emptiness itself is	1.0	0.2907	is this body this body is	1	0.2915
+54	decreasing	1.0	0.2874	being listen	1.0	0.2882	sariputra this body	1.0	0.289	itself is emptiness and	1.0	0.2899	and emptiness itself is this	1.0	0.2907	this body this body is not	1	0.2915
+55	eighteen	1.0	0.2874	sariputra this	1.0	0.2882	this body itself	1.0	0.289	is emptiness and emptiness	1.0	0.2899	emptiness itself is this body	1.0	0.2907	body this body is not other	1	0.2915
+56	realms	1.0	0.2874	body itself	1.0	0.2882	body itself is	1.0	0.289	emptiness and emptiness itself	1.0	0.2899	itself is this body this	1.0	0.2907	this body is not other than	1	0.2915
+57	organs	1.0	0.2874	is emptiness	1.0	0.2882	itself is emptiness	1.0	0.289	and emptiness itself is	1.0	0.2899	is this body this body	1.0	0.2907	body is not other than emptiness	1	0.2915
+58	objects	1.0	0.2874	emptiness itself	1.0	0.2882	is emptiness and	1.0	0.289	emptiness itself is this	1.0	0.2899	this body this body is	1.0	0.2907	is not other than emptiness and	1	0.2915
+59	consciousnesses	1.0	0.2874	body this	1.0	0.2882	and emptiness itself	1.0	0.289	itself is this body	1.0	0.2899	body this body is not	1.0	0.2907	not other than emptiness and emptiness	1	0.2915
+60	twelve	1.0	0.2874	body is	1.0	0.2882	emptiness itself is	1.0	0.289	is this body this	1.0	0.2899	this body is not other	1.0	0.2907	other than emptiness and emptiness is	1	0.2915
+61	links	1.0	0.2874	than emptiness	1.0	0.2882	is this body	1.0	0.289	this body this body	1.0	0.2899	body is not other than	1.0	0.2907	than emptiness and emptiness is not	1	0.2915
+62	interdependent	1.0	0.2874	emptiness is	1.0	0.2882	this body this	1.0	0.289	body this body is	1.0	0.2899	is not other than emptiness	1.0	0.2907	emptiness and emptiness is not other	1	0.2915
+63	arising	1.0	0.2874	body the	1.0	0.2882	body this body	1.0	0.289	this body is not	1.0	0.2899	not other than emptiness and	1.0	0.2907	and emptiness is not other than	1	0.2915
+64	extinction	1.0	0.2874	is true	1.0	0.2882	this body is	1.0	0.289	body is not other	1.0	0.2899	other than emptiness and emptiness	1.0	0.2907	emptiness is not other than this	1	0.2915
+65	causes	1.0	0.2874	true of	1.0	0.2882	body is not	1.0	0.289	not other than emptiness	1.0	0.2899	than emptiness and emptiness is	1.0	0.2907	is not other than this body	1	0.2915
+66	path	1.0	0.2874	of feelings	1.0	0.2882	other than emptiness	1.0	0.289	other than emptiness and	1.0	0.2899	emptiness and emptiness is not	1.0	0.2907	not other than this body the	1	0.2915
+67	attainment	1.0	0.2874	consciousness listen	1.0	0.2882	than emptiness and	1.0	0.289	than emptiness and emptiness	1.0	0.2899	and emptiness is not other	1.0	0.2907	other than this body the same	1	0.2915
+68	whoever	1.0	0.2874	sariputra all	1.0	0.2882	and emptiness is	1.0	0.289	emptiness and emptiness is	1.0	0.2899	emptiness is not other than	1.0	0.2907	than this body the same is	1	0.2915
+69	longer	1.0	0.2874	all phenomena	1.0	0.2882	emptiness is not	1.0	0.289	and emptiness is not	1.0	0.2899	not other than this body	1.0	0.2907	this body the same is true	1	0.2915
+70	needs	1.0	0.2874	phenomena bear	1.0	0.2882	than this body	1.0	0.289	emptiness is not other	1.0	0.2899	other than this body the	1.0	0.2907	body the same is true of	1	0.2915
+71	anything	1.0	0.2874	bear the	1.0	0.2882	this body the	1.0	0.289	other than this body	1.0	0.2899	than this body the same	1.0	0.2907	the same is true of feelings	1	0.2915
+72	attain	1.0	0.2874	the mark	1.0	0.2882	body the same	1.0	0.289	than this body the	1.0	0.2899	this body the same is	1.0	0.2907	same is true of feelings perceptions	1	0.2915
+73	bodhisattvas	1.0	0.2874	mark of	1.0	0.2882	same is true	1.0	0.289	this body the same	1.0	0.2899	body the same is true	1.0	0.2907	is true of feelings perceptions mental	1	0.2915
+74	practice	1.0	0.2874	of emptiness	1.0	0.2882	is true of	1.0	0.289	body the same is	1.0	0.2899	the same is true of	1.0	0.2907	true of feelings perceptions mental formations	1	0.2915
+75	overcome	1.0	0.2874	emptiness their	1.0	0.2882	true of feelings	1.0	0.289	the same is true	1.0	0.2899	same is true of feelings	1.0	0.2907	of feelings perceptions mental formations and	1	0.2915
+76	fear	1.0	0.2874	their true	1.0	0.2882	of feelings perceptions	1.0	0.289	same is true of	1.0	0.2899	is true of feelings perceptions	1.0	0.2907	perceptions mental formations and consciousness listen	1	0.2915
+77	destroy	1.0	0.2874	true nature	1.0	0.2882	and consciousness listen	1.0	0.289	is true of feelings	1.0	0.2899	true of feelings perceptions mental	1.0	0.2907	mental formations and consciousness listen sariputra	1	0.2915
+78	wrong	1.0	0.2874	nature is	1.0	0.2882	consciousness listen sariputra	1.0	0.289	true of feelings perceptions	1.0	0.2899	of feelings perceptions mental formations	1.0	0.2907	formations and consciousness listen sariputra all	1	0.2915
+79	realize	1.0	0.2874	the nature	1.0	0.2882	listen sariputra all	1.0	0.289	of feelings perceptions mental	1.0	0.2899	mental formations and consciousness listen	1.0	0.2907	and consciousness listen sariputra all phenomena	1	0.2915
+80	nirvana	1.0	0.2874	nature of	1.0	0.2882	sariputra all phenomena	1.0	0.289	formations and consciousness listen	1.0	0.2899	formations and consciousness listen sariputra	1.0	0.2907	consciousness listen sariputra all phenomena bear	1	0.2915
+81	buddhas	1.0	0.2874	no birth	1.0	0.2882	all phenomena bear	1.0	0.289	and consciousness listen sariputra	1.0	0.2899	and consciousness listen sariputra all	1.0	0.2907	listen sariputra all phenomena bear the	1	0.2915
+82	past	1.0	0.2874	birth no	1.0	0.2882	phenomena bear the	1.0	0.289	consciousness listen sariputra all	1.0	0.2899	consciousness listen sariputra all phenomena	1.0	0.2907	sariputra all phenomena bear the mark	1	0.2915
+83	present	1.0	0.2874	no death	1.0	0.2882	bear the mark	1.0	0.289	listen sariputra all phenomena	1.0	0.2899	listen sariputra all phenomena bear	1.0	0.2907	all phenomena bear the mark of	1	0.2915
+84	future	1.0	0.2874	death no	1.0	0.2882	the mark of	1.0	0.289	sariputra all phenomena bear	1.0	0.2899	sariputra all phenomena bear the	1.0	0.2907	phenomena bear the mark of emptiness	1	0.2915
+85	capable	1.0	0.2874	no non	1.0	0.2882	mark of emptiness	1.0	0.289	all phenomena bear the	1.0	0.2899	all phenomena bear the mark	1.0	0.2907	bear the mark of emptiness their	1	0.2915
+86	attaining	1.0	0.2874	non being	1.0	0.2882	of emptiness their	1.0	0.289	phenomena bear the mark	1.0	0.2899	phenomena bear the mark of	1.0	0.2907	the mark of emptiness their true	1	0.2915
+87	authentic	1.0	0.2874	no defilement	1.0	0.2882	emptiness their true	1.0	0.289	bear the mark of	1.0	0.2899	bear the mark of emptiness	1.0	0.2907	mark of emptiness their true nature	1	0.2915
+88	enlightenment	1.0	0.2874	defilement no	1.0	0.2882	their true nature	1.0	0.289	the mark of emptiness	1.0	0.2899	the mark of emptiness their	1.0	0.2907	of emptiness their true nature is	1	0.2915
+89	known	1.0	0.2874	no purity	1.0	0.2882	true nature is	1.0	0.289	mark of emptiness their	1.0	0.2899	mark of emptiness their true	1.0	0.2907	emptiness their true nature is the	1	0.2915
+90	great	1.0	0.2874	purity no	1.0	0.2882	nature is the	1.0	0.289	of emptiness their true	1.0	0.2899	of emptiness their true nature	1.0	0.2907	their true nature is the nature	1	0.2915
+91	illuminating	1.0	0.2874	no increasing	1.0	0.2882	is the nature	1.0	0.289	emptiness their true nature	1.0	0.2899	emptiness their true nature is	1.0	0.2907	true nature is the nature of	1	0.2915
+92	highest	1.0	0.2874	increasing no	1.0	0.2882	the nature of	1.0	0.289	their true nature is	1.0	0.2899	their true nature is the	1.0	0.2907	nature is the nature of no	1	0.2915
+93	beyond	1.0	0.2874	no decreasing	1.0	0.2882	nature of no	1.0	0.289	true nature is the	1.0	0.2899	true nature is the nature	1.0	0.2907	is the nature of no birth	1	0.2915
+94	compare	1.0	0.2874	decreasing that	1.0	0.2882	of no birth	1.0	0.289	nature is the nature	1.0	0.2899	nature is the nature of	1.0	0.2907	the nature of no birth no	1	0.2915
+95	wisdom	1.0	0.2874	in emptiness	1.0	0.2882	no birth no	1.0	0.289	is the nature of	1.0	0.2899	is the nature of no	1.0	0.2907	nature of no birth no death	1	0.2915
+96	power	1.0	0.2874	emptiness body	1.0	0.2882	birth no death	1.0	0.289	the nature of no	1.0	0.2899	the nature of no birth	1.0	0.2907	of no birth no death no	1	0.2915
+97	put	1.0	0.2874	body feelings	1.0	0.2882	no death no	1.0	0.289	nature of no birth	1.0	0.2899	nature of no birth no	1.0	0.2907	no birth no death no being	1	0.2915
+98	kinds	1.0	0.2874	consciousness are	1.0	0.2882	death no being	1.0	0.289	of no birth no	1.0	0.2899	of no birth no death	1.0	0.2907	birth no death no being no	1	0.2915
+99	suffering	1.0	0.2874	the eighteen	1.0	0.2882	being no non	1.0	0.289	no birth no death	1.0	0.2899	no birth no death no	1.0	0.2907	no death no being no non	1	0.2915
+100	let	1.0	0.2874	eighteen realms	1.0	0.2882	no non being	1.0	0.289	birth no death no	1.0	0.2899	birth no death no being	1.0	0.2907	death no being no non being	1	0.2915
+101	proclaim	1.0	0.2874	realms of	1.0	0.2882	non being no	1.0	0.289	no death no being	1.0	0.2899	no death no being no	1.0	0.2907	no being no non being no	1	0.2915
+102	praise	1.0	0.2874	of phenomena	1.0	0.2882	being no defilement	1.0	0.289	death no being no	1.0	0.2899	death no being no non	1.0	0.2907	being no non being no defilement	1	0.2915
+103				phenomena which	1.0	0.2882	no defilement no	1.0	0.289	no being no non	1.0	0.2899	no being no non being	1.0	0.2907	no non being no defilement no	1	0.2915
+104				sense organs	1.0	0.2882	defilement no purity	1.0	0.289	being no non being	1.0	0.2899	being no non being no	1.0	0.2907	non being no defilement no purity	1	0.2915
+105				organs the	1.0	0.2882	no purity no	1.0	0.289	no non being no	1.0	0.2899	no non being no defilement	1.0	0.2907	being no defilement no purity no	1	0.2915
+106				sense objects	1.0	0.2882	purity no increasing	1.0	0.289	non being no defilement	1.0	0.2899	non being no defilement no	1.0	0.2907	no defilement no purity no increasing	1	0.2915
+107				objects and	1.0	0.2882	no increasing no	1.0	0.289	being no defilement no	1.0	0.2899	being no defilement no purity	1.0	0.2907	defilement no purity no increasing no	1	0.2915
+108				six consciousnesses	1.0	0.2882	increasing no decreasing	1.0	0.289	no defilement no purity	1.0	0.2899	no defilement no purity no	1.0	0.2907	no purity no increasing no decreasing	1	0.2915
+109				consciousnesses are	1.0	0.2882	no decreasing that	1.0	0.289	defilement no purity no	1.0	0.2899	defilement no purity no increasing	1.0	0.2907	purity no increasing no decreasing that	1	0.2915
+110				the twelve	1.0	0.2882	decreasing that is	1.0	0.289	no purity no increasing	1.0	0.2899	no purity no increasing no	1.0	0.2907	no increasing no decreasing that is	1	0.2915
+111				twelve links	1.0	0.2882	why in emptiness	1.0	0.289	purity no increasing no	1.0	0.2899	purity no increasing no decreasing	1.0	0.2907	increasing no decreasing that is why	1	0.2915
+112				links of	1.0	0.2882	in emptiness body	1.0	0.289	no increasing no decreasing	1.0	0.2899	no increasing no decreasing that	1.0	0.2907	no decreasing that is why in	1	0.2915
+113				of interdependent	1.0	0.2882	emptiness body feelings	1.0	0.289	increasing no decreasing that	1.0	0.2899	increasing no decreasing that is	1.0	0.2907	decreasing that is why in emptiness	1	0.2915
+114				interdependent arising	1.0	0.2882	body feelings perceptions	1.0	0.289	no decreasing that is	1.0	0.2899	no decreasing that is why	1.0	0.2907	that is why in emptiness body	1	0.2915
+115				arising and	1.0	0.2882	and consciousness are	1.0	0.289	decreasing that is why	1.0	0.2899	decreasing that is why in	1.0	0.2907	is why in emptiness body feelings	1	0.2915
+116				their extinction	1.0	0.2882	consciousness are not	1.0	0.289	is why in emptiness	1.0	0.2899	that is why in emptiness	1.0	0.2907	why in emptiness body feelings perceptions	1	0.2915
+117				extinction are	1.0	0.2882	are not separate	1.0	0.289	why in emptiness body	1.0	0.2899	is why in emptiness body	1.0	0.2907	in emptiness body feelings perceptions mental	1	0.2915
+118				entities ill	1.0	0.2882	entities the eighteen	1.0	0.289	in emptiness body feelings	1.0	0.2899	why in emptiness body feelings	1.0	0.2907	emptiness body feelings perceptions mental formations	1	0.2915
+119				the causes	1.0	0.2882	the eighteen realms	1.0	0.289	emptiness body feelings perceptions	1.0	0.2899	in emptiness body feelings perceptions	1.0	0.2907	body feelings perceptions mental formations and	1	0.2915
+120				causes of	1.0	0.2882	eighteen realms of	1.0	0.289	body feelings perceptions mental	1.0	0.2899	emptiness body feelings perceptions mental	1.0	0.2907	perceptions mental formations and consciousness are	1	0.2915
+121				the end	1.0	0.2882	realms of phenomena	1.0	0.289	formations and consciousness are	1.0	0.2899	body feelings perceptions mental formations	1.0	0.2907	mental formations and consciousness are not	1	0.2915
+122				end of	1.0	0.2882	of phenomena which	1.0	0.289	and consciousness are not	1.0	0.2899	mental formations and consciousness are	1.0	0.2907	formations and consciousness are not separate	1	0.2915
+123				the path	1.0	0.2882	phenomena which are	1.0	0.289	consciousness are not separate	1.0	0.2899	formations and consciousness are not	1.0	0.2907	and consciousness are not separate self	1	0.2915
+124				path insight	1.0	0.2882	are the six	1.0	0.289	are not separate self	1.0	0.2899	and consciousness are not separate	1.0	0.2907	consciousness are not separate self entities	1	0.2915
+125				insight and	1.0	0.2882	six sense organs	1.0	0.289	self entities the eighteen	1.0	0.2899	consciousness are not separate self	1.0	0.2907	are not separate self entities the	1	0.2915
+126				and attainment	1.0	0.2882	sense organs the	1.0	0.289	entities the eighteen realms	1.0	0.2899	are not separate self entities	1.0	0.2907	not separate self entities the eighteen	1	0.2915
+127				attainment are	1.0	0.2882	organs the six	1.0	0.289	the eighteen realms of	1.0	0.2899	separate self entities the eighteen	1.0	0.2907	separate self entities the eighteen realms	1	0.2915
+128				entities whoever	1.0	0.2882	six sense objects	1.0	0.289	eighteen realms of phenomena	1.0	0.2899	self entities the eighteen realms	1.0	0.2907	self entities the eighteen realms of	1	0.2915
+129				whoever can	1.0	0.2882	sense objects and	1.0	0.289	realms of phenomena which	1.0	0.2899	entities the eighteen realms of	1.0	0.2907	entities the eighteen realms of phenomena	1	0.2915
+130				can see	1.0	0.2882	objects and the	1.0	0.289	of phenomena which are	1.0	0.2899	the eighteen realms of phenomena	1.0	0.2907	the eighteen realms of phenomena which	1	0.2915
+131				see this	1.0	0.2882	and the six	1.0	0.289	phenomena which are the	1.0	0.2899	eighteen realms of phenomena which	1.0	0.2907	eighteen realms of phenomena which are	1	0.2915
+132				no longer	1.0	0.2882	the six consciousnesses	1.0	0.289	which are the six	1.0	0.2899	realms of phenomena which are	1.0	0.2907	realms of phenomena which are the	1	0.2915
+133				longer needs	1.0	0.2882	six consciousnesses are	1.0	0.289	are the six sense	1.0	0.2899	of phenomena which are the	1.0	0.2907	of phenomena which are the six	1	0.2915
+134				needs anything	1.0	0.2882	consciousnesses are also	1.0	0.289	the six sense organs	1.0	0.2899	phenomena which are the six	1.0	0.2907	phenomena which are the six sense	1	0.2915
+135				anything to	1.0	0.2882	entities the twelve	1.0	0.289	six sense organs the	1.0	0.2899	which are the six sense	1.0	0.2907	which are the six sense organs	1	0.2915
+136				to attain	1.0	0.2882	the twelve links	1.0	0.289	sense organs the six	1.0	0.2899	are the six sense organs	1.0	0.2907	are the six sense organs the	1	0.2915
+137				attain bodhisattvas	1.0	0.2882	twelve links of	1.0	0.289	organs the six sense	1.0	0.2899	the six sense organs the	1.0	0.2907	the six sense organs the six	1	0.2915
+138				bodhisattvas who	1.0	0.2882	links of interdependent	1.0	0.289	the six sense objects	1.0	0.2899	six sense organs the six	1.0	0.2907	six sense organs the six sense	1	0.2915
+139				who practice	1.0	0.2882	of interdependent arising	1.0	0.289	six sense objects and	1.0	0.2899	sense organs the six sense	1.0	0.2907	sense organs the six sense objects	1	0.2915
+140				practice the	1.0	0.2882	interdependent arising and	1.0	0.289	sense objects and the	1.0	0.2899	organs the six sense objects	1.0	0.2907	organs the six sense objects and	1	0.2915
+141				shore see	1.0	0.2882	arising and their	1.0	0.289	objects and the six	1.0	0.2899	the six sense objects and	1.0	0.2907	the six sense objects and the	1	0.2915
+142				see no	1.0	0.2882	and their extinction	1.0	0.289	and the six consciousnesses	1.0	0.2899	six sense objects and the	1.0	0.2907	six sense objects and the six	1	0.2915
+143				mind and	1.0	0.2882	their extinction are	1.0	0.289	the six consciousnesses are	1.0	0.2899	sense objects and the six	1.0	0.2907	sense objects and the six consciousnesses	1	0.2915
+144				mind they	1.0	0.2882	extinction are also	1.0	0.289	six consciousnesses are also	1.0	0.2899	objects and the six consciousnesses	1.0	0.2907	objects and the six consciousnesses are	1	0.2915
+145				can overcome	1.0	0.2882	self entities ill	1.0	0.289	consciousnesses are also not	1.0	0.2899	and the six consciousnesses are	1.0	0.2907	and the six consciousnesses are also	1	0.2915
+146				overcome all	1.0	0.2882	entities ill being	1.0	0.289	self entities the twelve	1.0	0.2899	the six consciousnesses are also	1.0	0.2907	the six consciousnesses are also not	1	0.2915
+147				all fear	1.0	0.2882	being the causes	1.0	0.289	entities the twelve links	1.0	0.2899	six consciousnesses are also not	1.0	0.2907	six consciousnesses are also not separate	1	0.2915
+148				fear destroy	1.0	0.2882	the causes of	1.0	0.289	the twelve links of	1.0	0.2899	consciousnesses are also not separate	1.0	0.2907	consciousnesses are also not separate self	1	0.2915
+149				destroy all	1.0	0.2882	causes of ill	1.0	0.289	twelve links of interdependent	1.0	0.2899	separate self entities the twelve	1.0	0.2907	also not separate self entities the	1	0.2915
+150				all wrong	1.0	0.2882	being the end	1.0	0.289	links of interdependent arising	1.0	0.2899	self entities the twelve links	1.0	0.2907	not separate self entities the twelve	1	0.2915
+151				wrong perceptions	1.0	0.2882	the end of	1.0	0.289	of interdependent arising and	1.0	0.2899	entities the twelve links of	1.0	0.2907	separate self entities the twelve links	1	0.2915
+152				perceptions and	1.0	0.2882	end of ill	1.0	0.289	interdependent arising and their	1.0	0.2899	the twelve links of interdependent	1.0	0.2907	self entities the twelve links of	1	0.2915
+153				and realize	1.0	0.2882	being the path	1.0	0.289	arising and their extinction	1.0	0.2899	twelve links of interdependent arising	1.0	0.2907	entities the twelve links of interdependent	1	0.2915
+154				realize perfect	1.0	0.2882	the path insight	1.0	0.289	and their extinction are	1.0	0.2899	links of interdependent arising and	1.0	0.2907	the twelve links of interdependent arising	1	0.2915
+155				perfect nirvana	1.0	0.2882	path insight and	1.0	0.289	their extinction are also	1.0	0.2899	of interdependent arising and their	1.0	0.2907	twelve links of interdependent arising and	1	0.2915
+156				nirvana all	1.0	0.2882	insight and attainment	1.0	0.289	extinction are also not	1.0	0.2899	interdependent arising and their extinction	1.0	0.2907	links of interdependent arising and their	1	0.2915
+157				all buddhas	1.0	0.2882	and attainment are	1.0	0.289	separate self entities ill	1.0	0.2899	arising and their extinction are	1.0	0.2907	of interdependent arising and their extinction	1	0.2915
+158				buddhas in	1.0	0.2882	attainment are also	1.0	0.289	self entities ill being	1.0	0.2899	and their extinction are also	1.0	0.2907	interdependent arising and their extinction are	1	0.2915
+159				the past	1.0	0.2882	self entities whoever	1.0	0.289	entities ill being the	1.0	0.2899	their extinction are also not	1.0	0.2907	arising and their extinction are also	1	0.2915
+160				past present	1.0	0.2882	entities whoever can	1.0	0.289	ill being the causes	1.0	0.2899	extinction are also not separate	1.0	0.2907	and their extinction are also not	1	0.2915
+161				present and	1.0	0.2882	whoever can see	1.0	0.289	being the causes of	1.0	0.2899	not separate self entities ill	1.0	0.2907	their extinction are also not separate	1	0.2915
+162				and future	1.0	0.2882	can see this	1.0	0.289	the causes of ill	1.0	0.2899	separate self entities ill being	1.0	0.2907	extinction are also not separate self	1	0.2915
+163				future by	1.0	0.2882	see this no	1.0	0.289	causes of ill being	1.0	0.2899	self entities ill being the	1.0	0.2907	also not separate self entities ill	1	0.2915
+164				by practicing	1.0	0.2882	this no longer	1.0	0.289	ill being the end	1.0	0.2899	entities ill being the causes	1.0	0.2907	not separate self entities ill being	1	0.2915
+165				practicing the	1.0	0.2882	no longer needs	1.0	0.289	being the end of	1.0	0.2899	ill being the causes of	1.0	0.2907	separate self entities ill being the	1	0.2915
+166				shore are	1.0	0.2882	longer needs anything	1.0	0.289	the end of ill	1.0	0.2899	being the causes of ill	1.0	0.2907	self entities ill being the causes	1	0.2915
+167				all capable	1.0	0.2882	needs anything to	1.0	0.289	end of ill being	1.0	0.2899	the causes of ill being	1.0	0.2907	entities ill being the causes of	1	0.2915
+168				capable of	1.0	0.2882	anything to attain	1.0	0.289	ill being the path	1.0	0.2899	causes of ill being the	1.0	0.2907	ill being the causes of ill	1	0.2915
+169				of attaining	1.0	0.2882	to attain bodhisattvas	1.0	0.289	being the path insight	1.0	0.2899	of ill being the end	1.0	0.2907	being the causes of ill being	1	0.2915
+170				attaining authentic	1.0	0.2882	attain bodhisattvas who	1.0	0.289	the path insight and	1.0	0.2899	ill being the end of	1.0	0.2907	the causes of ill being the	1	0.2915
+171				authentic and	1.0	0.2882	bodhisattvas who practice	1.0	0.289	path insight and attainment	1.0	0.2899	being the end of ill	1.0	0.2907	causes of ill being the end	1	0.2915
+172				and perfect	1.0	0.2882	who practice the	1.0	0.289	insight and attainment are	1.0	0.2899	the end of ill being	1.0	0.2907	of ill being the end of	1	0.2915
+173				perfect enlightenment	1.0	0.2882	practice the insight	1.0	0.289	and attainment are also	1.0	0.2899	end of ill being the	1.0	0.2907	ill being the end of ill	1	0.2915
+174				enlightenment therefore	1.0	0.2882	other shore see	1.0	0.289	attainment are also not	1.0	0.2899	of ill being the path	1.0	0.2907	being the end of ill being	1	0.2915
+175				therefore sariputra	1.0	0.2882	shore see no	1.0	0.289	separate self entities whoever	1.0	0.2899	ill being the path insight	1.0	0.2907	the end of ill being the	1	0.2915
+176				sariputra it	1.0	0.2882	see no more	1.0	0.289	self entities whoever can	1.0	0.2899	being the path insight and	1.0	0.2907	end of ill being the path	1	0.2915
+177				be known	1.0	0.2882	their mind and	1.0	0.289	entities whoever can see	1.0	0.2899	the path insight and attainment	1.0	0.2907	of ill being the path insight	1	0.2915
+178				known that	1.0	0.2882	mind and because	1.0	0.289	whoever can see this	1.0	0.2899	path insight and attainment are	1.0	0.2907	ill being the path insight and	1	0.2915
+179				shore is	1.0	0.2882	their mind they	1.0	0.289	can see this no	1.0	0.2899	insight and attainment are also	1.0	0.2907	being the path insight and attainment	1	0.2915
+180				a great	1.0	0.2882	mind they can	1.0	0.289	see this no longer	1.0	0.2899	and attainment are also not	1.0	0.2907	the path insight and attainment are	1	0.2915
+181				great mantra	1.0	0.2882	they can overcome	1.0	0.289	this no longer needs	1.0	0.2899	attainment are also not separate	1.0	0.2907	path insight and attainment are also	1	0.2915
+182				most illuminating	1.0	0.2882	can overcome all	1.0	0.289	no longer needs anything	1.0	0.2899	not separate self entities whoever	1.0	0.2907	insight and attainment are also not	1	0.2915
+183				illuminating mantra	1.0	0.2882	overcome all fear	1.0	0.289	longer needs anything to	1.0	0.2899	separate self entities whoever can	1.0	0.2907	and attainment are also not separate	1	0.2915
+184				the highest	1.0	0.2882	all fear destroy	1.0	0.289	needs anything to attain	1.0	0.2899	self entities whoever can see	1.0	0.2907	attainment are also not separate self	1	0.2915
+185				highest mantra	1.0	0.2882	fear destroy all	1.0	0.289	anything to attain bodhisattvas	1.0	0.2899	entities whoever can see this	1.0	0.2907	also not separate self entities whoever	1	0.2915
+186				mantra a	1.0	0.2882	destroy all wrong	1.0	0.289	to attain bodhisattvas who	1.0	0.2899	whoever can see this no	1.0	0.2907	not separate self entities whoever can	1	0.2915
+187				mantra beyond	1.0	0.2882	all wrong perceptions	1.0	0.289	attain bodhisattvas who practice	1.0	0.2899	can see this no longer	1.0	0.2907	separate self entities whoever can see	1	0.2915
+188				beyond compare	1.0	0.2882	wrong perceptions and	1.0	0.289	bodhisattvas who practice the	1.0	0.2899	see this no longer needs	1.0	0.2907	self entities whoever can see this	1	0.2915
+189				compare the	1.0	0.2882	perceptions and realize	1.0	0.289	who practice the insight	1.0	0.2899	this no longer needs anything	1.0	0.2907	entities whoever can see this no	1	0.2915
+190				the true	1.0	0.2882	and realize perfect	1.0	0.289	practice the insight that	1.0	0.2899	no longer needs anything to	1.0	0.2907	whoever can see this no longer	1	0.2915
+191				true wisdom	1.0	0.2882	realize perfect nirvana	1.0	0.289	the other shore see	1.0	0.2899	longer needs anything to attain	1.0	0.2907	can see this no longer needs	1	0.2915
+192				wisdom that	1.0	0.2882	perfect nirvana all	1.0	0.289	other shore see no	1.0	0.2899	needs anything to attain bodhisattvas	1.0	0.2907	see this no longer needs anything	1	0.2915
+193				the power	1.0	0.2882	nirvana all buddhas	1.0	0.289	shore see no more	1.0	0.2899	anything to attain bodhisattvas who	1.0	0.2907	this no longer needs anything to	1	0.2915
+194				power to	1.0	0.2882	all buddhas in	1.0	0.289	see no more obstacles	1.0	0.2899	to attain bodhisattvas who practice	1.0	0.2907	no longer needs anything to attain	1	0.2915
+195				to put	1.0	0.2882	buddhas in the	1.0	0.289	in their mind and	1.0	0.2899	attain bodhisattvas who practice the	1.0	0.2907	longer needs anything to attain bodhisattvas	1	0.2915
+196				put an	1.0	0.2882	in the past	1.0	0.289	their mind and because	1.0	0.2899	bodhisattvas who practice the insight	1.0	0.2907	needs anything to attain bodhisattvas who	1	0.2915
+197				an end	1.0	0.2882	the past present	1.0	0.289	mind and because there	1.0	0.2899	who practice the insight that	1.0	0.2907	anything to attain bodhisattvas who practice	1	0.2915
+198				end to	1.0	0.2882	past present and	1.0	0.289	are no more obstacles	1.0	0.2899	practice the insight that brings	1.0	0.2907	to attain bodhisattvas who practice the	1	0.2915
+199				all kinds	1.0	0.2882	present and future	1.0	0.289	in their mind they	1.0	0.2899	to the other shore see	1.0	0.2907	attain bodhisattvas who practice the insight	1	0.2915
+200				kinds of	1.0	0.2882	and future by	1.0	0.289	their mind they can	1.0	0.2899	the other shore see no	1.0	0.2907	bodhisattvas who practice the insight that	1	0.2915
+201				of suffering	1.0	0.2882	future by practicing	1.0	0.289	mind they can overcome	1.0	0.2899	other shore see no more	1.0	0.2907	who practice the insight that brings	1	0.2915
+202				suffering therefore	1.0	0.2882	by practicing the	1.0	0.289	they can overcome all	1.0	0.2899	shore see no more obstacles	1.0	0.2907	practice the insight that brings us	1	0.2915
+203				therefore let	1.0	0.2882	practicing the insight	1.0	0.289	can overcome all fear	1.0	0.2899	see no more obstacles in	1.0	0.2907	us to the other shore see	1	0.2915
+204				let us	1.0	0.2882	other shore are	1.0	0.289	overcome all fear destroy	1.0	0.2899	obstacles in their mind and	1.0	0.2907	to the other shore see no	1	0.2915
+205				us proclaim	1.0	0.2882	shore are all	1.0	0.289	all fear destroy all	1.0	0.2899	in their mind and because	1.0	0.2907	the other shore see no more	1	0.2915
+206				proclaim a	1.0	0.2882	are all capable	1.0	0.289	fear destroy all wrong	1.0	0.2899	their mind and because there	1.0	0.2907	other shore see no more obstacles	1	0.2915
+207				mantra to	1.0	0.2882	all capable of	1.0	0.289	destroy all wrong perceptions	1.0	0.2899	mind and because there are	1.0	0.2907	shore see no more obstacles in	1	0.2915
+208				to praise	1.0	0.2882	capable of attaining	1.0	0.289	all wrong perceptions and	1.0	0.2899	there are no more obstacles	1.0	0.2907	see no more obstacles in their	1	0.2915
+209				praise the	1.0	0.2882	of attaining authentic	1.0	0.289	wrong perceptions and realize	1.0	0.2899	are no more obstacles in	1.0	0.2907	more obstacles in their mind and	1	0.2915
+210				shore gate	1.0	0.2882	attaining authentic and	1.0	0.289	perceptions and realize perfect	1.0	0.2899	obstacles in their mind they	1.0	0.2907	obstacles in their mind and because	1	0.2915
+211							authentic and perfect	1.0	0.289	and realize perfect nirvana	1.0	0.2899	in their mind they can	1.0	0.2907	in their mind and because there	1	0.2915
+212							and perfect enlightenment	1.0	0.289	realize perfect nirvana all	1.0	0.2899	their mind they can overcome	1.0	0.2907	their mind and because there are	1	0.2915
+213							perfect enlightenment therefore	1.0	0.289	perfect nirvana all buddhas	1.0	0.2899	mind they can overcome all	1.0	0.2907	mind and because there are no	1	0.2915
+214							enlightenment therefore sariputra	1.0	0.289	nirvana all buddhas in	1.0	0.2899	they can overcome all fear	1.0	0.2907	because there are no more obstacles	1	0.2915
+215							therefore sariputra it	1.0	0.289	all buddhas in the	1.0	0.2899	can overcome all fear destroy	1.0	0.2907	there are no more obstacles in	1	0.2915
+216							sariputra it should	1.0	0.289	buddhas in the past	1.0	0.2899	overcome all fear destroy all	1.0	0.2907	are no more obstacles in their	1	0.2915
+217							should be known	1.0	0.289	in the past present	1.0	0.2899	all fear destroy all wrong	1.0	0.2907	more obstacles in their mind they	1	0.2915
+218							be known that	1.0	0.289	the past present and	1.0	0.2899	fear destroy all wrong perceptions	1.0	0.2907	obstacles in their mind they can	1	0.2915
+219							known that the	1.0	0.289	past present and future	1.0	0.2899	destroy all wrong perceptions and	1.0	0.2907	in their mind they can overcome	1	0.2915
+220							that the insight	1.0	0.289	present and future by	1.0	0.2899	all wrong perceptions and realize	1.0	0.2907	their mind they can overcome all	1	0.2915
+221							other shore is	1.0	0.289	and future by practicing	1.0	0.2899	wrong perceptions and realize perfect	1.0	0.2907	mind they can overcome all fear	1	0.2915
+222							shore is a	1.0	0.289	future by practicing the	1.0	0.2899	perceptions and realize perfect nirvana	1.0	0.2907	they can overcome all fear destroy	1	0.2915
+223							is a great	1.0	0.289	by practicing the insight	1.0	0.2899	and realize perfect nirvana all	1.0	0.2907	can overcome all fear destroy all	1	0.2915
+224							a great mantra	1.0	0.289	practicing the insight that	1.0	0.2899	realize perfect nirvana all buddhas	1.0	0.2907	overcome all fear destroy all wrong	1	0.2915
+225							great mantra the	1.0	0.289	the other shore are	1.0	0.2899	perfect nirvana all buddhas in	1.0	0.2907	all fear destroy all wrong perceptions	1	0.2915
+226							mantra the most	1.0	0.289	other shore are all	1.0	0.2899	nirvana all buddhas in the	1.0	0.2907	fear destroy all wrong perceptions and	1	0.2915
+227							the most illuminating	1.0	0.289	shore are all capable	1.0	0.2899	all buddhas in the past	1.0	0.2907	destroy all wrong perceptions and realize	1	0.2915
+228							most illuminating mantra	1.0	0.289	are all capable of	1.0	0.2899	buddhas in the past present	1.0	0.2907	all wrong perceptions and realize perfect	1	0.2915
+229							illuminating mantra the	1.0	0.289	all capable of attaining	1.0	0.2899	in the past present and	1.0	0.2907	wrong perceptions and realize perfect nirvana	1	0.2915
+230							mantra the highest	1.0	0.289	capable of attaining authentic	1.0	0.2899	the past present and future	1.0	0.2907	perceptions and realize perfect nirvana all	1	0.2915
+231							the highest mantra	1.0	0.289	of attaining authentic and	1.0	0.2899	past present and future by	1.0	0.2907	and realize perfect nirvana all buddhas	1	0.2915
+232							highest mantra a	1.0	0.289	attaining authentic and perfect	1.0	0.2899	present and future by practicing	1.0	0.2907	realize perfect nirvana all buddhas in	1	0.2915
+233							mantra a mantra	1.0	0.289	authentic and perfect enlightenment	1.0	0.2899	and future by practicing the	1.0	0.2907	perfect nirvana all buddhas in the	1	0.2915
+234							a mantra beyond	1.0	0.289	and perfect enlightenment therefore	1.0	0.2899	future by practicing the insight	1.0	0.2907	nirvana all buddhas in the past	1	0.2915
+235							mantra beyond compare	1.0	0.289	perfect enlightenment therefore sariputra	1.0	0.2899	by practicing the insight that	1.0	0.2907	all buddhas in the past present	1	0.2915
+236							beyond compare the	1.0	0.289	enlightenment therefore sariputra it	1.0	0.2899	practicing the insight that brings	1.0	0.2907	buddhas in the past present and	1	0.2915
+237							compare the true	1.0	0.289	therefore sariputra it should	1.0	0.2899	to the other shore are	1.0	0.2907	in the past present and future	1	0.2915
+238							the true wisdom	1.0	0.289	sariputra it should be	1.0	0.2899	the other shore are all	1.0	0.2907	the past present and future by	1	0.2915
+239							true wisdom that	1.0	0.289	it should be known	1.0	0.2899	other shore are all capable	1.0	0.2907	past present and future by practicing	1	0.2915
+240							wisdom that has	1.0	0.289	should be known that	1.0	0.2899	shore are all capable of	1.0	0.2907	present and future by practicing the	1	0.2915
+241							has the power	1.0	0.289	be known that the	1.0	0.2899	are all capable of attaining	1.0	0.2907	and future by practicing the insight	1	0.2915
+242							the power to	1.0	0.289	known that the insight	1.0	0.2899	all capable of attaining authentic	1.0	0.2907	future by practicing the insight that	1	0.2915
+243							power to put	1.0	0.289	that the insight that	1.0	0.2899	capable of attaining authentic and	1.0	0.2907	by practicing the insight that brings	1	0.2915
+244							to put an	1.0	0.289	the other shore is	1.0	0.2899	of attaining authentic and perfect	1.0	0.2907	practicing the insight that brings us	1	0.2915
+245							put an end	1.0	0.289	other shore is a	1.0	0.2899	attaining authentic and perfect enlightenment	1.0	0.2907	us to the other shore are	1	0.2915
+246							an end to	1.0	0.289	shore is a great	1.0	0.2899	authentic and perfect enlightenment therefore	1.0	0.2907	to the other shore are all	1	0.2915
+247							end to all	1.0	0.289	is a great mantra	1.0	0.2899	and perfect enlightenment therefore sariputra	1.0	0.2907	the other shore are all capable	1	0.2915
+248							to all kinds	1.0	0.289	a great mantra the	1.0	0.2899	perfect enlightenment therefore sariputra it	1.0	0.2907	other shore are all capable of	1	0.2915
+249							all kinds of	1.0	0.289	great mantra the most	1.0	0.2899	enlightenment therefore sariputra it should	1.0	0.2907	shore are all capable of attaining	1	0.2915
+250							kinds of suffering	1.0	0.289	mantra the most illuminating	1.0	0.2899	therefore sariputra it should be	1.0	0.2907	are all capable of attaining authentic	1	0.2915
+251							of suffering therefore	1.0	0.289	the most illuminating mantra	1.0	0.2899	sariputra it should be known	1.0	0.2907	all capable of attaining authentic and	1	0.2915
+252							suffering therefore let	1.0	0.289	most illuminating mantra the	1.0	0.2899	it should be known that	1.0	0.2907	capable of attaining authentic and perfect	1	0.2915
+253							therefore let us	1.0	0.289	illuminating mantra the highest	1.0	0.2899	should be known that the	1.0	0.2907	of attaining authentic and perfect enlightenment	1	0.2915
+254							let us proclaim	1.0	0.289	mantra the highest mantra	1.0	0.2899	be known that the insight	1.0	0.2907	attaining authentic and perfect enlightenment therefore	1	0.2915
+255							us proclaim a	1.0	0.289	the highest mantra a	1.0	0.2899	known that the insight that	1.0	0.2907	authentic and perfect enlightenment therefore sariputra	1	0.2915
+256							proclaim a mantra	1.0	0.289	highest mantra a mantra	1.0	0.2899	that the insight that brings	1.0	0.2907	and perfect enlightenment therefore sariputra it	1	0.2915
+257							a mantra to	1.0	0.289	mantra a mantra beyond	1.0	0.2899	to the other shore is	1.0	0.2907	perfect enlightenment therefore sariputra it should	1	0.2915
+258							mantra to praise	1.0	0.289	a mantra beyond compare	1.0	0.2899	the other shore is a	1.0	0.2907	enlightenment therefore sariputra it should be	1	0.2915
+259							to praise the	1.0	0.289	mantra beyond compare the	1.0	0.2899	other shore is a great	1.0	0.2907	therefore sariputra it should be known	1	0.2915
+260							praise the insight	1.0	0.289	beyond compare the true	1.0	0.2899	shore is a great mantra	1.0	0.2907	sariputra it should be known that	1	0.2915
+261							other shore gate	1.0	0.289	compare the true wisdom	1.0	0.2899	is a great mantra the	1.0	0.2907	it should be known that the	1	0.2915
+262							shore gate gate	1.0	0.289	the true wisdom that	1.0	0.2899	a great mantra the most	1.0	0.2907	should be known that the insight	1	0.2915
+263										true wisdom that has	1.0	0.2899	great mantra the most illuminating	1.0	0.2907	be known that the insight that	1	0.2915
+264										wisdom that has the	1.0	0.2899	mantra the most illuminating mantra	1.0	0.2907	known that the insight that brings	1	0.2915
+265										that has the power	1.0	0.2899	the most illuminating mantra the	1.0	0.2907	that the insight that brings us	1	0.2915
+266										has the power to	1.0	0.2899	most illuminating mantra the highest	1.0	0.2907	us to the other shore is	1	0.2915
+267										the power to put	1.0	0.2899	illuminating mantra the highest mantra	1.0	0.2907	to the other shore is a	1	0.2915
+268										power to put an	1.0	0.2899	mantra the highest mantra a	1.0	0.2907	the other shore is a great	1	0.2915
+269										to put an end	1.0	0.2899	the highest mantra a mantra	1.0	0.2907	other shore is a great mantra	1	0.2915
+270										put an end to	1.0	0.2899	highest mantra a mantra beyond	1.0	0.2907	shore is a great mantra the	1	0.2915
+271										an end to all	1.0	0.2899	mantra a mantra beyond compare	1.0	0.2907	is a great mantra the most	1	0.2915
+272										end to all kinds	1.0	0.2899	a mantra beyond compare the	1.0	0.2907	a great mantra the most illuminating	1	0.2915
+273										to all kinds of	1.0	0.2899	mantra beyond compare the true	1.0	0.2907	great mantra the most illuminating mantra	1	0.2915
+274										all kinds of suffering	1.0	0.2899	beyond compare the true wisdom	1.0	0.2907	mantra the most illuminating mantra the	1	0.2915
+275										kinds of suffering therefore	1.0	0.2899	compare the true wisdom that	1.0	0.2907	the most illuminating mantra the highest	1	0.2915
+276										of suffering therefore let	1.0	0.2899	the true wisdom that has	1.0	0.2907	most illuminating mantra the highest mantra	1	0.2915
+277										suffering therefore let us	1.0	0.2899	true wisdom that has the	1.0	0.2907	illuminating mantra the highest mantra a	1	0.2915
+278										therefore let us proclaim	1.0	0.2899	wisdom that has the power	1.0	0.2907	mantra the highest mantra a mantra	1	0.2915
+279										let us proclaim a	1.0	0.2899	that has the power to	1.0	0.2907	the highest mantra a mantra beyond	1	0.2915
+280										us proclaim a mantra	1.0	0.2899	has the power to put	1.0	0.2907	highest mantra a mantra beyond compare	1	0.2915
+281										proclaim a mantra to	1.0	0.2899	the power to put an	1.0	0.2907	mantra a mantra beyond compare the	1	0.2915
+282										a mantra to praise	1.0	0.2899	power to put an end	1.0	0.2907	a mantra beyond compare the true	1	0.2915
+283										mantra to praise the	1.0	0.2899	to put an end to	1.0	0.2907	mantra beyond compare the true wisdom	1	0.2915
+284										to praise the insight	1.0	0.2899	put an end to all	1.0	0.2907	beyond compare the true wisdom that	1	0.2915
+285										praise the insight that	1.0	0.2899	an end to all kinds	1.0	0.2907	compare the true wisdom that has	1	0.2915
+286										the other shore gate	1.0	0.2899	end to all kinds of	1.0	0.2907	the true wisdom that has the	1	0.2915
+287										other shore gate gate	1.0	0.2899	to all kinds of suffering	1.0	0.2907	true wisdom that has the power	1	0.2915
+288										shore gate gate paragate	1.0	0.2899	all kinds of suffering therefore	1.0	0.2907	wisdom that has the power to	1	0.2915
+289													kinds of suffering therefore let	1.0	0.2907	that has the power to put	1	0.2915
+290													of suffering therefore let us	1.0	0.2907	has the power to put an	1	0.2915
+291													suffering therefore let us proclaim	1.0	0.2907	the power to put an end	1	0.2915
+292													therefore let us proclaim a	1.0	0.2907	power to put an end to	1	0.2915
+293													let us proclaim a mantra	1.0	0.2907	to put an end to all	1	0.2915
+294													us proclaim a mantra to	1.0	0.2907	put an end to all kinds	1	0.2915
+295													proclaim a mantra to praise	1.0	0.2907	an end to all kinds of	1	0.2915
+296													a mantra to praise the	1.0	0.2907	end to all kinds of suffering	1	0.2915
+297													mantra to praise the insight	1.0	0.2907	to all kinds of suffering therefore	1	0.2915
+298													to praise the insight that	1.0	0.2907	all kinds of suffering therefore let	1	0.2915
+299													praise the insight that brings	1.0	0.2907	kinds of suffering therefore let us	1	0.2915
+300													to the other shore gate	1.0	0.2907	of suffering therefore let us proclaim	1	0.2915
+301													the other shore gate gate	1.0	0.2907	suffering therefore let us proclaim a	1	0.2915
+302													other shore gate gate paragate	1.0	0.2907	therefore let us proclaim a mantra	1	0.2915
+303													shore gate gate paragate parasamgate	1.0	0.2907	let us proclaim a mantra to	1	0.2915
+304																us proclaim a mantra to praise	1	0.2915
+305																proclaim a mantra to praise the	1	0.2915
+306																a mantra to praise the insight	1	0.2915
+307																mantra to praise the insight that	1	0.2915
+308																to praise the insight that brings	1	0.2915
+309																praise the insight that brings us	1	0.2915
+310																us to the other shore gate	1	0.2915
+311																to the other shore gate gate	1	0.2915
+312																the other shore gate gate paragate	1	0.2915
+313																other shore gate gate paragate parasamgate	1	0.2915
+314																shore gate gate paragate parasamgate bodhi	1	0.2915
